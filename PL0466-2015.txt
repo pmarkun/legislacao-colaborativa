@@ -1,0 +1,2293 @@
+Secretaria Geral Parlamentar
+Secretaria de Documentação
+Equipe de Documentação do Legislativo
+
+PROJETO DE LEI 01-00466/2015 do Executivo
+(Encaminhado à Câmara pelo Sr. Prefeito com o ofício ATL 136/15)
+
+"Aprova o Código de Obras e Edificações do Município de São Paulo; introduz
+alterações nas Leis nº 15.150, de 6 de maio de 2010, e nº 15.764, de 27 de maio de 2013.
+A Câmara Municipal de São Paulo DECRETA:
+
+# CAPÍTULO I
+
+## DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º Fica aprovado o Código de Obras e Edificações do Município de São Paulo COE, que disciplina, no Município de São Paulo, as regras gerais a serem observadas no
+projeto, licenciamento, execução, manutenção e utilização de obras, edificações e
+equipamentos, dentro dos limites do imóvel, bem como os respectivos procedimentos
+administrativos, executivos e fiscalizatórios, sem prejuízo do disposto na legislação estadual e
+federal pertinente.
+
+Art. 2º A análise dos projetos e dos pedidos de documentos de controle da atividade
+edilícia deve ser efetuada quanto à sua observância:
+
+I - às normas do Plano Diretor Estratégico - PDE, da Legislação de Parcelamento, Uso
+e Ocupação do Solo - LPUOS e das Operações Urbanas Consorciadas - OUC;
+
+II - aos planos de melhoramento viário aprovados;
+
+III - às servidões administrativas;
+
+IV - às restrições decorrentes das declarações de utilidade pública e de interesse
+social;
+
+V - às limitações decorrentes do tombamento e da preservação de imóveis;
+
+VI - às regras para mitigar o impacto ambiental e de vizinhança;
+
+VII - às restrições para a ocupação de áreas com risco ou contaminadas;
+
+VIII - a quaisquer leis ou regulamentos relacionados às características externas da
+edificação ou equipamento e sua inserção na paisagem urbana.
+
+Art. 3º Para fins de aplicação das disposições deste Código, ficam adotadas as
+seguintes definições:
+
+I - acessibilidade: condição de utilização, com segurança e autonomia, total ou
+assistida, de edificação, espaço, mobiliário e equipamento;
+
+II - acessível: edificação, espaço, mobiliário e equipamento que possa ser utilizado e
+vivenciado por qualquer pessoa, inclusive aquela com deficiência ou mobilidade reduzida,
+conforme os parâmetros definidos em norma técnica pertinente;
+
+III - adaptação razoável: modificações e ajustes necessários e adequados que não
+acarretem ônus desproporcional ou indevido, quando requeridos em cada caso, a fim de
+assegurar que as pessoas com deficiência ou mobilidade reduzida possam gozar ou exercer,
+em igualdade de oportunidades com as demais pessoas, os direitos humanos e liberdades
+fundamentais;
+
+
+IV - alinhamento: linha de divisa entre o terreno e o logradouro público;
+
+V - andar: volume compreendido entre dois pavimentos consecutivos ou entre o
+pavimento e o nível superior de sua cobertura;
+
+VI - ático: parte do volume superior de uma edificação, destinada a abrigar casa de
+máquinas, piso técnico de elevadores, equipamentos, caixa d'água e circulação vertical;
+
+VII - beiral: prolongamento da cobertura que se sobressai das paredes externas da
+edificação;
+
+VIII - canteiro de obras: espaço delimitado pelo tapume, destinado ao preparo e apoio à
+execução da obra ou serviço, incluindo os elementos provisórios que o compõem, tais como
+estande de vendas, alojamento, escritório de campo, depósitos, galeria, andaime, plataforma e
+tela protetora visando à proteção da edificação vizinha e logradouro público;
+
+IX - edificação transitória: edificação de caráter não permanente, passível de
+montagem, desmontagem e transporte;
+
+X - embargo: ordem de paralisação dos trabalhos na obra ou serviço em execução sem
+a respectiva licença ou por desatendimento à Legislação de Obras e Edificações - LOE ou
+LPUOS;
+
+XI - equipamento: elemento não considerado como área construída, destinado a
+guarnecer ou completar uma edificação, a ela se integrando, tais como equipamentos
+mecânicos de transporte, tanques de armazenagem, bombas e sistemas de aquecimento solar
+e à gás, podendo ser:
+
+a) equipamento permanente: equipamento de caráter duradouro;
+
+b) equipamento transitório: equipamento de caráter não permanente, passível de
+montagem, desmontagem e transporte;
+
+XII - interdição: ordem e ato de fechamento e desocupação do imóvel em situação
+irregular ou de risco em relação às condições de estabilidade, segurança ou salubridade;
+
+XIII - mobiliário: elemento construtivo que não se enquadra como edificação ou
+equipamento, tais como:
+
+a) guarita e módulo pré-fabricado;
+
+b) jirau;
+
+c) abrigo ou telheiro sem vedação lateral em pelo menos 50% (cinquenta por cento) do
+perímetro;
+
+d) estufas, quiosques, viveiros de plantas, churrasqueiras;
+
+e) dutos de lareiras;
+
+f) pérgulas;
+
+XIV - movimento de terra: modificação do perfil do terreno ou substituição do solo em
+terrenos alagadiços ou que implique em alteração topográfica superior a 1,50m (um metro e
+cinquenta centímetros) de desnível ou a 1.000,00m³ (mil metros cúbicos) de volume;
+
+XV - muro de arrimo: muro resistente, que trabalha por gravidade ou flexão, construído
+para conter maciço de terra, empuxo das águas de infiltração, sobrecarga de construção,
+sobreaterro e situações similares;
+
+XVI - obra complementar: edificação secundária ou parte da edificação que,
+funcionalmente, complemente a atividade desenvolvida no imóvel, tais como:
+
+a) passagem coberta de pedestre sem vedação lateral;
+
+b) abrigo de porta e portão, automóvel, lixo, recipiente de gás;
+
+c) casa de máquina isolada, cabine de força, cabine primária;
+
+d) caixa d'água elevada, chaminé e torre isoladas;
+
+e) bilheteria, portaria, caixa eletrônico;
+
+XVII - obras de emergência: obra de caráter urgente, essenciais à garantia das
+condições de estabilidade, segurança ou salubridade do imóvel;
+
+XVIII - pavimento: plano de piso;
+
+XIX - pavimento térreo: aquele definido na LPUOS;
+
+XX - pavimento de acesso: aquele definido na LPUOS;
+
+XXI - pérgulas: vigas horizontais ou inclinadas, distanciadas regularmente, sem
+cobertura;
+
+XXII - pessoa com deficiência: pessoa com limitação ou incapacidade, permanente ou
+temporária, quanto à sua capacidade física para o desempenho de atividades;
+
+XXIII - pessoa com mobilidade reduzida: pessoa com dificuldade, permanente ou
+temporária, de se movimentar, gerando redução da mobilidade, flexibilidade, coordenação
+motora e percepção, tais como a pessoa idosa, obesa e gestante;
+
+XXIV - reconstrução: obra destinada à recuperação e recomposição de uma edificação,
+motivada pela ocorrência de incêndio ou outro sinistro, mantendo-se as características
+anteriores;
+
+XXV - recuo: distância entre o limite externo da edificação e a divisa do lote, medida
+perpendicularmente a esta;
+
+XXVI - reforma: intervenção na edificação que implique alteração da área construída ou
+da volumetria, com a simultânea manutenção de parte ou de toda a área existente, com ou
+sem mudança de uso;
+
+XXVII - reforma sem acréscimo de área: intervenção na edificação sem alteração da
+área construída, que implique em modificação da estrutura, pé-direito ou compartimentação
+vertical, com ou sem mudança de uso;
+
+XXVIII - requalificação: intervenção em edificação existente, visando a adequação e
+modernização das instalações, com ou sem mudança de uso;
+
+XXIX - saliência: elemento arquitetônico, engastado ou aposto na edificação ou muro;
+
+XXX - tapume: vedação provisória usada durante a construção, visando a proteção de
+terceiros e o isolamento da obra ou serviço;
+
+XXXI - terraço aberto: peça justaposta à edificação, constituída em balcão aberto, sem
+ou com vedação, desde que retrátil ou vazada do tipo quebra-sol, em balanço ou não,
+complementar à unidade residencial ou não residencial, não abrigando função essencial ao
+pleno funcionamento da unidade;
+
+XXXII - uso privado: espaço e compartimento de utilização exclusiva da população
+permanente da edificação.
+
+Parágrafo único. Ficam também adotadas as seguintes abreviações:
+
+I - ART - Anotação de Responsabilidade Técnica perante o CREA;
+
+II - CAU - Conselho de Arquitetura e Urbanismo;
+
+III - COE - Código de Obras e Edificações;
+
+IV - CREA - Conselho Regional de Engenharia, Arquitetura e Agronomia;
+
+V - LOE - Legislação de Obras e Edificações, incluindo o COE;
+
+VI - LPUOS - Legislação de Parcelamento, Uso e Ocupação do Solo;
+
+VII - PDE - Plano Diretor Estratégico;
+
+VIII - Prefeitura - Prefeitura do Município de São Paulo;
+
+IX - RRT - Registro de Responsabilidade Técnica perante o CAU.
+
+# CAPÍTULO II
+
+## DO CONTROLE DA ATIVIDADE EDILÍCIA
+
+## Seção I
+
+Das Responsabilidades e dos Direitos
+
+Art. 4º É direito e responsabilidade do proprietário ou possuidor do imóvel requerer
+perante a Prefeitura a emissão dos documentos de controle da atividade edilícia de que trata
+este Código, respeitados o direito de vizinhança, a função social da propriedade e a legislação
+municipal correlata.
+
+Parágrafo único. O licenciamento de projetos e obras e instalação de equipamentos
+não implica o reconhecimento, pela Prefeitura, do direito de propriedade ou posse sobre o
+imóvel.
+
+Art. 5º Para fins de aplicação das disposições deste Código, considera-se:
+
+I - proprietário: a pessoa física ou jurídica, detentora de título de propriedade do imóvel
+registrado no Cartório de Registro de Imóveis;
+
+II - possuidor: a pessoa física ou jurídica, bem como seu sucessor a qualquer título, que
+tenha de fato o exercício, pleno ou não, de usar o imóvel objeto da obra.
+
+Parágrafo único. No caso de órgão ou entidade da Administração Pública Direta e
+Indireta, a titularidade pode ser comprovada pela apresentação de mandado de imissão na
+posse, expedido em ação expropriatória do imóvel, sendo admitido o licenciamento sobre parte
+da área constante do título de propriedade.
+
+Art. 6º O possuidor tem os mesmos direitos do proprietário, desde que apresente a
+certidão de registro imobiliário e um dos seguintes documentos:
+
+I - contrato com autorização expressa do proprietário;
+
+II - compromisso de compra e venda devidamente registrado no Cartório de Registro de
+Imóveis;
+
+III - contrato representativo da relação jurídica existente entre o proprietário e o
+possuidor direto;
+
+IV - escritura definitiva sem registro;
+
+V - decisão judicial reconhecendo o direito de usucapião.
+
+Parágrafo único. O proprietário ou possuidor que autoriza a obra ou serviço fica
+responsável pela manutenção das condições de estabilidade, segurança e salubridade do
+imóvel, edificações e equipamentos, bem como pela observância do projeto aprovado, das
+disposições deste Código, do respectivo decreto regulamentar, das normas aplicáveis e da
+legislação municipal correlata, bem como do Plano Diretor Estratégico - PDE e da Legislação
+de Parcelamento, Uso e Ocupação do Solo - PUOS.
+
+Art. 7º Todos os pedidos de documentos de controle da atividade edilícia devem ser
+subscritos pelo proprietário ou possuidor em conjunto com um profissional habilitado.
+
+§ 1º A veracidade das informações e documentos apresentados nos pedidos e
+cadastro de que trata este Código é de inteira responsabilidade do proprietário ou possuidor e
+do profissional habilitado.
+
+§ 2º O proprietário, o possuidor e o profissional habilitado ficam obrigados à
+observância das disposições deste Código, das regras indispensáveis ao seu cumprimento
+fixadas no respectivo decreto regulamentar e das normas aplicáveis, submetendo-se às
+penalidades previstas nesta lei.
+
+Art. 8º Considera-se profissional habilitado o técnico registrado perante os órgãos
+federais fiscalizadores do exercício profissional, respeitadas as atribuições e limitações
+consignadas por aqueles organismos.
+
+§ 1º O profissional habilitado pode assumir as funções de:
+
+I - responsável técnico pelo projeto, sendo responsável pelo atendimento à legislação
+pertinente na elaboração do projeto, pelo conteúdo das peças gráficas e pelas especificações e
+exequibilidade de seu trabalho;
+
+
+II - responsável técnico pela obra, sendo responsável pela correta execução da obra de
+acordo com o projeto aprovado e pela instalação e manutenção do equipamento, observadas
+as normas aplicáveis, zelando por sua segurança e assumindo as consequências diretas e
+indiretas advindas de sua atuação.
+
+§ 2º O profissional habilitado pode atuar individual ou solidariamente e como pessoa
+física ou responsável por pessoa jurídica, facultado ao mesmo profissional a assunção das
+funções de responsável técnico pelo projeto, de responsável técnico pela obra, de responsável
+pela instalação do equipamento e de responsável pela manutenção do equipamento.
+
+§ 3º Fica facultada a transferência da responsabilidade profissional, sendo obrigatória
+em caso de impedimento do técnico atuante, assumindo o novo profissional, perante a
+Prefeitura, a responsabilidade pela parte já executada, sem prejuízo da responsabilização do
+profissional anterior.
+
+Art. 9º A observância das disposições deste Código não desobriga o profissional do
+cumprimento das normas disciplinadoras de sua regular atuação, impostas pelo respectivo
+conselho profissional, e daquelas decorrentes da legislação federal, estadual e municipal.
+
+Parágrafo único. A Prefeitura se exime do reconhecimento dos direitos autorais ou
+pessoais referentes à autoria do projeto e à responsabilidade técnica.
+
+Art. 10. A Prefeitura não se responsabiliza pela estabilidade da edificação e do
+equipamento ou por qualquer sinistro ou acidente decorrente de deficiências do projeto, de sua
+execução ou instalação, bem como de sua utilização.
+
+Art. 11. A conformidade do projeto às normas técnicas gerais e específicas de
+construção e às disposições legais e regulamentares aplicáveis aos aspectos interiores das
+edificações é de responsabilidade exclusiva do responsável técnico pelo projeto, de acordo
+com a declaração de responsabilidade a ser apresentada nos termos deste Código.
+
+§ 1º O projeto de edificação ou equipamento deve observar as disposições técnicas
+estabelecidas no Anexo I deste Código, independentemente da demonstração nas peças
+gráficas apresentadas, bem como estar em consonância com a legislação estadual e federal
+aplicável e as normas pertinentes.
+
+§ 2º O projeto de segurança de uso deve observar as disposições estabelecidas nas
+normas pertinentes ao sistema construtivo e de estabilidade, condições de escoamento,
+condições construtivas especiais de segurança de uso, potencial de risco, instalações elétricas
+e sistema de proteção contra descargas atmosféricas, equipamentos e sistemas de segurança
+contra incêndio e aos sistemas complementares.
+
+§ 3º Podem ser aceitas outras soluções técnicas, com igual ou superior desempenho
+em relação ao estabelecido neste Código, desde que devidamente justificadas.
+
+## Seção II - Dos Documentos de Controle da Atividade Edilícia
+
+Art. 12. A atividade edilícia depende de controle a ser exercido por meio da emissão de
+alvará, certificado, autorização ou registro em cadastro de acordo com o tipo de obra, serviço e
+equipamento a ser executado ou instalado, mediante procedimento administrativo e a pedido
+do interessado.
+
+§ 1º Estão sujeitas a alvará de aprovação e execução as seguintes atividades:
+
+I - construção de edificação nova em lote não edificado;
+
+II - reforma de edificação existente;
+
+III - requalificação de edificação existente;
+
+IV - demolição de bloco existente isolado, com ou sem a simultânea manutenção de
+outros blocos existentes no lote;
+
+V - reconstrução de edificação regular, no todo ou em parte;
+
+VI - execução de muro de arrimo quando desvinculado de obra de edificação;
+
+VII - movimento de terra quando desvinculado de obra de edificação.
+
+
+§ 2º Estão sujeitas a certificado as seguintes atividades:
+
+I - conclusão de obra licenciada;
+
+II - regularização de edificação existente;
+
+III - adaptação de edificação existente às condições de acessibilidade;
+
+IV - adaptação de edificação existente às condições de segurança.
+
+§ 3º Estão sujeitas a autorização:
+
+I - implantação ou utilização de edificação transitória ou equipamento transitório;
+
+II - utilização temporária de edificação licenciada para uso diverso;
+
+III - avanço de tapume sobre parte do passeio público;
+
+IV - avanço de grua sobre o espaço público;
+
+V - instalação de canteiro de obras e estande de vendas em imóvel distinto daquele em
+que a obra será executada.
+
+§ 4º Estão sujeitas a cadastro e manutenção os seguintes equipamentos:
+
+I - equipamento mecânico de transporte permanente, tais como elevador, escada
+rolante e plataforma de elevação;
+
+II - tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;
+
+III - equipamento de sistema especial de segurança da edificação, definido nos termos
+deste Código.
+
+Art. 13. Não estão sujeitas a licenciamento, nos termos deste Código, a execução de:
+
+I - obra ou serviço de reparo e limpeza;
+
+II - restauro, entendido como a recuperação de imóvel sob o regime de preservação
+municipal, estadual ou federal, de modo a lhe restituir as características originais, a ser
+autorizado pelo órgão competente;
+
+III - alteração do interior da edificação que não implique modificação na estrutura que
+interfira na estabilidade da construção;
+
+IV - modificação do interior da edificação que não implique na redução das condições
+de acessibilidade e segurança existentes;
+
+V - construção, demolição de edificação, obra, equipamento e serviço de baixo impacto
+urbanístico.
+
+§ 1º Consideram-se de baixo impacto urbanístico, dentre outras, a:
+
+I - construção e demolição de obras complementares à edificação com área construída
+de, no máximo, 30,00m² (trinta metros quadrados);
+
+II - instalação de saliência, com as seguintes características:
+
+a) aba horizontal e vertical, "brise" com até 0,40m (quarenta centímetros) de
+profundidade, beiral da cobertura com até 1,50m (um metro e meio) de largura;
+
+b) viga, pilar, ornato e ornamento com até 0,40m (quarenta centímetros) de avanço;
+
+c) jardineira e floreira com até 0,40m (quarenta centímetros) de avanço;
+
+d) marquise não sobreposta que avance até 50% (cinquenta por cento) das faixas de
+recuo obrigatório;
+
+III - construção de muro de divisa;
+
+IV - construção de muro de arrimo com altura máxima de 2,00m (dois metros);
+
+V - construção de espelho d'água, poço e fossa;
+
+VI - construção de piscina em edificação residencial unifamiliar e unidade habitacional
+no conjunto de habitações agrupadas horizontalmente;
+
+
+VII - substituição de material de revestimento exterior ou de cobertura ou telhado.
+
+§ 2º Não se considera de baixo impacto urbanístico a obra que venha a causar
+modificação na estrutura da edificação e aquela executada em imóvel:
+
+I - sob o regime de preservação cultural, histórica, artística, paisagística ou ambiental
+ou em vias de preservação, de interesse municipal, estadual ou federal;
+
+II - situado em área envoltória de imóvel referido no inciso I deste parágrafo.
+
+§ 3º As obras de que trata o § 2º deste artigo devem ser aprovadas por órgão de
+preservação municipal, estadual ou federal, conforme for o caso.
+
+Art. 14. A atividade edilícia em imóvel da União, do Estado e do Município independe
+da expedição dos documentos de que trata este Código, ficando, no entanto, sujeita ao
+atendimento de suas disposições e da legislação pertinente à matéria.
+
+## Subseção I - Do Alvará de Aprovação
+
+Art. 15. Mediante procedimento administrativo e a pedido do proprietário ou do
+possuidor do imóvel, a Prefeitura emite Alvará de Aprovação, que licencia o projeto para:
+
+I - construção de edificação nova;
+
+II - reforma de edificação existente;
+
+III - requalificação de edificação existente.
+
+Parágrafo único. O Alvará de Aprovação deve incluir, quando necessário à implantação
+do projeto, a licença para:
+
+I - demolição parcial ou total do existente;
+
+II - execução de muro de arrimo;
+
+III - execução de movimento de terra;
+
+IV - instalação de equipamento mecânico de transporte permanente, tanque de
+armazenagem, bomba, filtro de combustível e equipamentos afins e de sistema especial de
+segurança da edificação, nos termos deste Código;
+
+V - instalação de estande de vendas.
+
+Art. 16. O pedido de Alvará de Aprovação deve ser instruído com:
+
+I - documentação referente ao imóvel;
+
+II - peças gráficas do projeto simplificado, assinadas por profissional habilitado,
+conforme definição constante do respectivo decreto regulamentar;
+
+III - levantamento topográfico elaborado por profissional habilitado de acordo com os
+requisitos técnicos a serem regulamentados;
+
+IV - declaração assinada pelo profissional habilitado, atestando a conformidade do
+projeto no que diz respeito aos aspectos interiores da edificação em relação às disposições
+deste Código e legislação correlata;
+
+V - declaração assinada pelo profissional habilitado, atestando a conformidade das
+condições de instalação de equipamento mecânico de transporte permanente, tanque de
+armazenagem, filtro, bomba de combustível e equipamentos afins e de sistema especial de
+segurança da edificação em relação às normas e legislação pertinente, quando for o caso.
+
+§ 1º Se uma edificação for constituída por um conjunto de blocos cujos projetos forem
+elaborados por profissionais diferentes, respondem eles solidariamente pela implantação de
+todo o conjunto.
+
+§ 2º Somente são aceitas divergências de até 5% (cinco por cento) entre as dimensões
+e área constantes do documento de propriedade apresentado e as apuradas no levantamento
+topográfico.
+
+
+§ 3º Quando dentro do limite estabelecido no § 2º deste artigo, são observados os
+índices fixados pelo PDE e LPUOS em relação às menores dimensões e área apuradas.
+
+§ 4º Havendo divergência superior a 5% (cinco por cento) entre qualquer dimensão ou
+área constante do documento de propriedade e a apurada no levantamento topográfico, o
+Alvará de Aprovação pode ser emitido, ficando a emissão do Alvará de Execução condicionada
+à apresentação da certidão de matrícula do imóvel com dimensões e área retificadas.
+
+Art. 17. As peças gráficas do projeto simplificado devem conter:
+
+I - implantação da edificação;
+
+II - planta baixa do perímetro de todos os andares;
+
+III - corte esquemático;
+
+IV - no caso de reforma com alteração de área, a indicação das edificações existentes
+e dos acréscimos ou decréscimos de área;
+
+V - quadro de áreas e demonstrativos do atendimento ao PDE e LPUOS;
+
+VI - informação sobre o manejo arbóreo, quando for o caso;
+
+VII - demonstração do atendimento às disposições deste Código, conforme
+regulamento.
+
+Art. 18. O Alvará de Aprovação perde a eficácia em 2 (dois) anos contados da data da
+publicação do despacho de deferimento do pedido, devendo, neste prazo, ser solicitado o
+respectivo Alvará de Execução.
+
+Parágrafo único. Quando se tratar de edificação constituída de mais de um bloco
+isolado, o prazo do Alvará de Aprovação fica dilatado por mais 1 (um) ano para cada bloco
+excedente, até o prazo máximo de 5 (cinco) anos.
+
+Art. 19. O Alvará de Aprovação pode ser revalidado desde que o projeto aprovado
+atenda à legislação em vigor por ocasião do deferimento do pedido de revalidação.
+
+Parágrafo único. Se houver necessidade de análise técnica em função da edição de
+legislação posterior, deve ser solicitado novo alvará.
+
+Art. 20. O Alvará de Aprovação pode, enquanto vigente, ser objeto de apostilamento
+para constar eventuais alterações de dados.
+
+Parágrafo único. A alteração do projeto aprovado dar-se-á por meio da emissão de
+novo Alvará de Aprovação.
+
+Art. 21. Pode ser emitido mais de um Alvará de Aprovação para o mesmo imóvel.
+
+Art. 22. O Alvará de Aprovação pode ser expedido juntamente com o Alvará de
+Desdobro, por meio do mesmo procedimento, de acordo com o regulamento.
+
+## Subseção II - Do Alvará de Execução
+
+Art. 23. Mediante procedimento administrativo e a pedido do proprietário ou possuidor
+do imóvel, a Prefeitura emite Alvará de Execução, que autoriza a execução e é indispensável
+para o início das obras de:
+
+I - construção de edificação nova;
+
+II - reforma de edificação existente;
+
+III - requalificação de edificação existente;
+
+IV - reconstrução de edificação que sofreu sinistro;
+
+V - demolição total de edificação ou de bloco isolado quando desvinculado de obra de
+edificação;
+
+VI - execução de muro de arrimo quando desvinculado de obra de edificação;
+
+VII - movimento de terra quando desvinculado de obra de edificação.
+
+
+§ 1º Um único Alvará de Execução pode incluir, quando for o caso, o licenciamento de
+mais de um tipo de serviço ou obra elencado no "caput" deste artigo.
+
+§ 2º O Alvará de Execução para edificação nova, reforma ou requalificação de
+edificação deve incluir, quando for o caso, a licença para:
+
+I - demolição parcial ou total da edificação existente;
+
+II - execução de muro de arrimo;
+
+III - movimento de terra necessário à execução do projeto;
+
+IV - instalação de equipamento mecânico de transporte permanente, tanque de
+armazenagem, bomba, filtro de combustível e equipamentos afins e de sistema especial de
+segurança da edificação, nos termos das disposições deste Código;
+
+V - instalação de canteiro de obras;
+
+VI - instalação de tapume;
+
+VII - transporte de terra ou entulho;
+
+VIII - avanço de grua sobre o espaço público.
+
+§ 3º No caso do Alvará de Execução se referir a um conjunto de serviços ou obras a
+serem executados sob a responsabilidade de diversos profissionais, dele deve constar a área
+de atuação de cada um deles.
+
+Art. 24. O pedido de Alvará de Execução deve ser instruído com documentos
+referentes ao terreno e ao projeto, assinado pelo profissional habilitado, de acordo com a
+natureza do pedido.
+
+§ 1º O responsável técnico deve formalizar declaração de responsabilidade pela
+correta execução da obra, de acordo com o projeto aprovado, observadas as normas
+aplicáveis.
+
+§ 2º Quando o pedido abranger a instalação de equipamento mecânico de transporte
+permanente, tais como elevador, escada rolante e plataforma de elevação, ou de tanque de
+armazenagem, bomba, filtro de combustível e equipamentos afins ou dispuser de sistema
+especial de segurança da edificação, deve ser formalizada declaração de responsabilidade
+assinada pelo profissional habilitado responsável pela instalação, atestando que os serviços
+atenderão às normas e às disposições legais pertinentes.
+
+§ 3º O Alvará de Execução somente pode ser emitido após a comprovação do
+atendimento a eventuais ressalvas constantes do Alvará de Aprovação e o pagamento integral
+da outorga onerosa previsto na legislação urbanística, quando for o caso.
+
+Art. 25. Quando houver mais de um Alvará de Aprovação em vigor para o mesmo
+imóvel, o Alvará de Execução pode ser concedido apenas para um deles.
+
+Art. 26. Pode ser requerido Alvará de Execução parcial para cada bloco no caso do
+Alvará de Aprovação compreender edificação constituída de mais de um bloco, observado o
+seu prazo de vigência.
+
+Art. 27. Após a emissão do Alvará de Execução, somente são aceitas pequenas
+alterações no projeto, não se admitindo mudança de uso, categoria de uso ou subcategoria de
+uso e alteração da área de terreno.
+
+Parágrafo único. Na hipótese prevista no "caput" deste artigo, o projeto modificativo a
+ser aprovado não pode conter, em relação ao projeto anteriormente aprovado:
+
+I - alteração superior a 5% (cinco por cento) nas áreas computáveis;
+
+II - alteração superior a 5% (cinco por cento) nas áreas não computáveis;
+
+III - alteração superior a 5% (cinco por cento) na taxa de ocupação;
+
+IV - alteração superior a 5% (cinco por cento) no gabarito de altura da edificação.
+
+Art. 28. Quando destinado à demolição total, execução de muro de arrimo e movimento
+de terra desvinculados de obra de edificação, o Alvará de Execução perde a eficácia se as
+
+obras não forem concluídas dentro do prazo de 2 (dois) anos contados da data da publicação
+do despacho de deferimento do pedido.
+
+Art. 29. O Alvará de Execução para edificação nova, reforma, requalificação e
+reconstrução de edificação perde a eficácia:
+
+I - caso a obra não tenha sido iniciada, em 2 (dois) anos a contar da data da publicação
+do despacho de deferimento do pedido;
+
+II - caso a obra tenha sido iniciada, se permanecer paralisada por período superior a 1
+(um) ano.
+
+Parágrafo único. Considera-se início de obra o término das fundações da edificação ou
+de um dos blocos.
+
+Art. 30. A obra paralisada com o Alvará de Execução caduco pode ser reiniciada após
+o reexame do projeto e a revalidação simultânea dos Alvarás de Aprovação e de Execução,
+desde que o projeto aprovado atenda à legislação em vigor por ocasião do deferimento do
+pedido de revalidação.
+
+Parágrafo único. Pode ser aceita a continuação de obra parcialmente executada e
+paralisada que não atenda à legislação em vigor, desde que a edificação venha a ser utilizada
+para uso permitido na zona pelo PDE e LPUOS e não seja agravada a eventual
+desconformidade em relação:
+
+I - aos índices urbanísticos e parâmetros de instalação e incomodidade estabelecidos
+na LPUOS;
+
+II - às normas relativas às condições de higiene, salubridade, segurança de uso e
+acessibilidade estabelecidas na LOE.
+
+Art. 31. O Alvará de Execução pode, enquanto vigente, ser objeto de apostilamento
+para constar eventuais alterações de dados.
+
+Art. 32. O Alvará de Execução pode ser expedido juntamente com o Alvará de
+Aprovação, por meio de um mesmo procedimento.
+
+## Subseção III - Do Certificado de Conclusão
+
+Art. 33. Mediante procedimento administrativo e a pedido do proprietário ou possuidor,
+a Prefeitura expede Certificado de Conclusão quando da conclusão de obra ou serviço
+licenciado por meio de Alvará de Execução para:
+
+I - construção de edificação nova;
+
+II - reforma de edificação existente;
+
+III - requalificação de edificação existente;
+
+IV - reconstrução de edificação que sofreu sinistro;
+
+V - demolição total de edificação ou de bloco isolado;
+
+VI - execução de muro de arrimo;
+
+VII - movimento de terra.
+
+§ 1º Pode ser concedido Certificado de Conclusão em caráter parcial se a parte
+concluída da edificação atender as exigências previstas na LOE, PDE e LPUOS para o uso a
+que se destina.
+
+§ 2º No caso de edificação irregular, no todo ou em parte, que não atenda o disposto
+na LOE, PDE e LPUOS, o Certificado de Conclusão para reforma, parcial ou total, só pode ser
+concedido após a supressão da infração.
+
+§ 3º Pode ser aceita pequena alteração que não descaracterize o projeto aprovado,
+nem implique divergência superior a 5% (cinco por cento) entre as medidas lineares e
+quadradas da edificação e de sua implantação no terreno constantes do projeto aprovado e
+aquelas observadas na obra executada.
+
+
+Art. 34. O Certificado de Conclusão é o documento hábil para a comprovação da
+regularidade da edificação, sendo válido quando acompanhado das peças gráficas aprovadas
+referentes ao Alvará de Execução, inclusive para fins de registro no Cartório de Registro de
+Imóveis.
+
+Art. 35. O pedido de Certificado de Conclusão deve ser instruído com:
+
+I - declaração do profissional responsável pela obra, atestando a sua conclusão e
+execução de acordo com as normas aplicáveis e as disposições da legislação municipal, em
+especial deste Código;
+
+II - documentos e licenças eventualmente ressalvadas no Alvará de Execução.
+
+Parágrafo único. O cadastro de elevador e demais equipamentos mecânicos de
+transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e
+equipamentos afins e de equipamento de sistema especial de segurança da edificação nos
+respectivos sistemas da Prefeitura é requisito para a emissão do Certificado de Conclusão,
+quando for o caso.
+
+## Subseção IV - Do Certificado de Regularização
+
+Art. 36. Mediante procedimento administrativo e a pedido do proprietário ou possuidor,
+a Prefeitura expede Certificado de Regularização quando da conclusão de obra ou serviço
+executado sem prévia licença da Prefeitura, para o qual seja obrigatória a emissão de Alvará
+de Execução, desde que observadas:
+
+I - as prescrições da LOE e LPUOS vigentes durante o período da construção e a
+edificação esteja adaptada às condições de segurança e acessibilidade estabelecidas neste
+Código;
+
+II - a legislação edilícia e urbanística vigente na ocasião da emissão do Certificado de
+Regularização.
+
+§ 1º Para a aplicação do disposto no inciso I do "caput" deste artigo a edificação
+destinada a uso residencial unifamiliar e conjunto residencial horizontal cujas unidades tenham
+acesso direto para o logradouro público, também devem ser consideradas as leis de anistia e
+de regularização específicas publicadas no período referido nesse dispositivo, assim como toda
+a legislação posterior que possibilite a regularização da edificação.
+
+§ 2º Pode ser aceita divergência de, no máximo, 5% (cinco por cento) entre as medidas
+lineares e quadradas exigidas na LOE e LPUOS e aquelas observadas na obra executada.
+
+Art. 37. O Certificado de Regularização é o documento hábil para a comprovação da
+regularidade da edificação que não tenha sido objeto de Alvará de Execução e de Certificado
+de Conclusão, sendo válido quando acompanhado das peças gráficas aprovadas referentes à
+edificação, obra ou serviço executado, inclusive para fins de registro no Cartório de Registro de
+Imóveis, substituindo o Certificado de Conclusão.
+
+Art. 38. O pedido de Certificado de Regularização deve ser instruído com:
+
+I - documentação referente ao imóvel;
+
+II - peças gráficas do projeto simplificado da edificação executada, assinadas por
+profissional habilitado;
+
+III - levantamento topográfico para a verificação das dimensões, área e localização do
+imóvel, quando necessário;
+
+IV - declaração assinada por profissional habilitado, atestando que a obra está
+concluída e em conformidade com as disposições do artigo 36 deste Código e legislação
+correlata;
+
+V - outros documentos e licenças exigidos na legislação municipal, conforme o caso.
+
+Parágrafo único. O cadastro de elevador e demais equipamentos mecânicos de
+transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e
+equipamentos afins e de equipamento de sistema especial de segurança da edificação nos
+respectivos sistemas da Prefeitura é requisito para a emissão do Certificado de Regularização,
+quando for o caso.
+## Subseção V - Do Certificado de Acessibilidade - 
+
+Art. 39. Mediante procedimento administrativo e a pedido do proprietário ou possuidor,
+a Prefeitura expede Certificado de Acessibilidade quando da conclusão da adaptação da
+edificação existente às condições de acessibilidade às pessoas com deficiência ou mobilidade
+reduzida, conforme as disposições deste Código, normas regulamentares, normas técnicas e
+legislação correlata.
+
+Art. 40. Devem ser adaptadas às condições de acessibilidade as edificações existentes
+destinadas ao uso:
+
+I - público, entendida como aquela administrada por órgão ou entidade da
+Administração Pública Direta e Indireta ou por empresa prestadora de serviço público e
+destinada ao público em geral;
+
+II - coletivo, entendida como aquela destinada à atividade não residencial;
+
+III - privado, entendida como aquela destinada à habitação classificada como
+multifamiliar.
+
+Parágrafo único. O atendimento ao disposto no "caput" deste artigo está dispensado
+quando as adaptações necessárias à edificação acarretar ônus desproporcional ou indevido ao
+seu proprietário ou possuidor, conforme definido em regulamento.
+
+Art. 41. O pedido de Certificado de Acessibilidade deve ser instruído com:
+
+I - documentação referente ao imóvel;
+
+II - peças gráficas do projeto simplificado das obras e serviços de adaptação propostos,
+assinadas por profissional habilitado;
+
+III - declaração do profissional responsável pela obra, atestando a sua conclusão e
+execução de acordo com as disposições da legislação municipal e, em especial, deste Código,
+bem como das normas pertinentes à acessibilidade no interior da edificação na data do
+protocolo do processo.
+
+Parágrafo único. O cadastro de elevador e demais equipamentos mecânicos de
+transporte permanente nos sistemas da Prefeitura é requisito para a emissão do Certificado de
+Acessibilidade, quando for o caso.
+
+Art. 42. O Certificado de Acessibilidade pode ser requerido junto com o Certificado de
+Regularização ou Certificado de Segurança relativo à edificação.
+
+## Subseção VI - Do Certificado de Segurança
+
+Art. 43. Mediante procedimento administrativo e a pedido do proprietário ou possuidor,
+a Prefeitura expede Certificado de Segurança, documento que comprova a adaptação da
+edificação existente às condições de segurança de uso, conforme o disposto neste Código, as
+normas aplicáveis e a legislação correlata.
+
+Parágrafo único. O Certificado de Segurança deve incluir o Certificado de
+Acessibilidade caso a edificação ainda não tenha este documento.
+
+Art. 44. O pedido de Certificado de Segurança deve ser instruído com:
+
+I - documentação referente ao imóvel;
+
+II - peças gráficas do projeto simplificado das obras e serviços de adaptação propostos,
+assinadas por profissional habilitado;
+
+III - declaração assinada por profissional habilitado, atestando a conformidade da
+edificação às disposições deste Código e legislação correlata;
+
+
+
+IV - Certificado de Acessibilidade ou documentação exigida neste Código para a sua
+emissão, quando for o caso;
+
+V - outras declarações referentes às condições de uso dos equipamentos, exigidas em
+legislação municipal. ,
+
+Parágrafo único. O cadastro de elevador e demais equipamentos mecânicos de
+transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e
+equipamentos afins e de equipamento de sistema especial de segurança da edificação nos
+sistemas da Prefeitura é requisito para a emissão do Certificado de Segurança, quando for o
+caso.
+
+## Subseção VII - Do Alvará de Autorização
+
+Art. 45. Mediante procedimento administrativo e a pedido do proprietário ou possuidor,
+a Prefeitura concede Alvará de Autorização para:
+
+I - implantação ou utilização de edificação transitória ou equipamento transitório;
+
+II - utilização temporária de edificação licenciada para uso diverso;
+
+III - avanço de tapume sobre parte do passeio público;
+
+IV - avanço de grua sobre o espaço público;
+
+V - instalação de canteiro de obras e estande de vendas em imóvel distinto daquele em
+que a obra será executada.
+
+Art. 46. O pedido de Alvará de Autorização deve ser instruído com:
+
+I - documentação referente ao imóvel;
+
+II - peças gráficas do projeto simplificado da edificação assinadas por profissional
+habilitado, quando for o caso;
+
+III - declaração assinada por profissional habilitado, atestando a conformidade da
+edificação às disposições deste Código e legislação correlata;
+
+IV - outros documentos e licenças exigidos na legislação municipal, conforme o caso.
+
+§ 1º O cadastro de elevador e demais equipamentos mecânicos de transporte
+permanente, de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e
+de equipamento de sistema especial de segurança da edificação nos respectivos sistemas da
+Prefeitura é requisito para a emissão do Alvará de Autorização, quando for o caso.
+
+§ 2º O Alvará de Autorização de que trata o "caput" deste artigo perde a eficácia no
+prazo de 6 (seis) meses, podendo ser revalidado uma vez por igual período, a pedido do
+interessado.
+
+## Subseção VIII - Do Cadastro e Manutenção de Equipamentos
+
+Art. 47. Mediante procedimento administrativo, o proprietário ou possuidor, deve
+cadastrar nos sistemas da Prefeitura os seguintes equipamentos:
+
+I - equipamento mecânico de transporte permanente, tais como elevador, escada
+rolante e plataforma de elevação;
+
+II - tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;
+
+III - equipamento de sistema especial de segurança da edificação, nos termos deste
+Código.
+
+Art. 48. O cadastro deve ser instruído com:
+
+I - peças gráficas e memorial com a descrição e localização de cada equipamento,
+assinada por profissional habilitado;
+
+
+
+II - declaração assinada por profissional habilitado, atestando que o equipamento foi
+instalado conforme o projeto aprovado e atende às normas aplicáveis e às disposições da
+legislação municipal na data do protocolo.
+
+Art. 49. O responsável técnico pela manutenção das condições de uso do equipamento
+deve renovar o cadastro, sob pena de caducidade e aplicação das sanções previstas neste
+Código, a cada período de:
+
+I - 1 (um) ano, no caso de elevador e demais equipamentos mecânicos de transporte
+permanente;
+
+II - 5 (cinco) anos, no caso de tanque de armazenagem, bomba, filtro de combustível e
+equipamentos afins e de equipamento de sistema especial de segurança da edificação.
+
+## Subseção IX - Da Ficha Técnica
+
+Art. 50. A pedido do interessado, a Prefeitura emite Ficha Técnica do imóvel, da qual
+deve constar as informações relativas ao uso e ocupação do solo, à incidência de
+melhoramentos urbanísticos e aos demais dados cadastrais disponíveis.
+
+# CAPÍTULO III
+
+## DAS TAXAS
+
+
+Art. 51. A Taxa para Exame e Verificação dos Pedidos de Documentos de Controle da
+Atividade Edilícia - TEV/COE, fundada no poder de polícia do Município, tem como fato gerador
+os pedidos de alvará, certificado, autorização, cadastro e manutenção previstos neste Código.
+
+§ 1º Considera-se ocorrido o fato gerador no ato do protocolo dos pedidos de
+documentos e do cadastro de equipamentos.
+
+§ 2º A fixação da alíquota, base de cálculo e ocorrência do fato gerador,
+correspondentes a cada espécie de pedido, tem como base a Tabela constante do Anexo II
+deste Código.
+
+§ 3º A taxa deve ser integralmente recolhida no momento da ocorrência do fato
+gerador, pelo proprietário ou possuidor do imóvel ou por quem efetivar o pedido.
+
+§ 4º Na omissão total ou parcial do recolhimento de eventual diferença, cabe
+lançamento de ofício, regularmente notificado o sujeito passivo, com prazo de 30 (trinta) dias
+para pagamento ou impugnação administrativa.
+
+§ 5º O valor da taxa deve ser atualizado anualmente pela variação do índice de Preços
+ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística IBGE, ou por outro índice que venha a substituí-lo.
+
+§ 6º O débito resultante do procedimento previsto no § 4º deste artigo não pago até a
+data do vencimento deve ser atualizado da forma e pelo índice de correção estabelecidos na
+Lei nº 10.734, de 30 de junho de 1989, com a redação dada pela Lei nº 13.275, de 4 de janeiro
+de 2002, e acrescido de juros moratórios calculados à taxa de 0,33% (trinta e três centésimos
+por cento), por dia de atraso, sobre o valor do débito, até o limite de 20% (vinte por cento), sem
+prejuízo, quando for o caso, do acréscimo de honorários advocatícios, custas e demais
+despesas judiciais, conforme a legislação municipal pertinente.
+
+Art. 52. Ficam isentos do pagamento da TEV-COE e dispensados do pagamento dos
+preços públicos os pedidos relativos a Empreendimento Habitacional de Interesse Social em
+ZEIS - EZEIS, Empreendimento Habitacional de Interesse Social - EHIS, Empreendimento
+Habitacional do Mercado Popular - EHMP, Habitação de Interesse Social - HIS, Habitação de
+Mercado Popular - HMP e moradia econômica, definidos em legislação municipal.
+
+§ 1º A isenção prevista no "caput" deste artigo estende-se aos demais programas
+habitacionais promovidos pelo setor público ou por entidades sob o controle acionário do Poder
+Público, bem como aos programas promovidos por sociedades civis sem fins lucrativos
+conveniadas com a Secretaria Municipal de Habitação.
+
+§ 2º A Prefeitura pode fornecer gratuitamente projetos de arquitetura e executivo para a
+construção de moradia econômica.
+
+
+§ 3º Mediante convênio a ser firmado com o órgão de classe de engenheiros e
+arquitetos, a Prefeitura pode fornecer ainda, gratuitamente, assistência e responsabilidade
+técnica de profissional habilitado, para o acompanhamento das obras.
+
+Art. 53. Também ficam isentos do pagamento da TEV-COE e dispensados do
+pagamento dos preços públicos os pedidos referentes a empreendimentos públicos do
+Município, Estado e União e das entidades da Administração Pública Indireta.
+# CAPÍTULO IV - DOS PROCEDIMENTOS ADMINISTRATIVOS
+
+## Seção I - Dos Procedimentos Gerais
+
+Art. 54. O pedido instruído pelo interessado deve ser analisado conforme a sua
+natureza, observadas as normas municipais, em especial as prescrições da LOE, PDE,
+LPUOS, sem prejuízo da observância das disposições estaduais e federais pertinentes.
+
+§ 1º O pedido deve ser instruído com todos os elementos necessários à sua
+apreciação, nos termos das normas legais e regulamentares.
+
+§ 2º Todos os documentos exigidos para a instrução dos pedidos podem ser
+substituídos por equivalentes eletrônicos ou por documentos disponíveis nos cadastros e
+bancos de dados da Prefeitura.
+
+§ 3º Os diversos pedidos referentes ao mesmo imóvel, bem como os recursos contra
+os respectivos despachos, podem ser analisados em um único processo.
+
+Art. 55. O pedido deve ser deferido se o processo estiver devidamente instruído e o
+projeto observar a legislação pertinente à matéria.
+
+Art. 56. O processo que apresentar elementos incompletos ou incorretos ou necessitar
+de complementação da documentação ou esclarecimentos deve ser objeto de um único
+comunicado ("comunique-se") para que as falhas sejam sanadas.
+
+Parágrafo único. O prazo para atendimento do comunicado é de 30 (trinta) dias
+contados da data da sua publicação, podendo, ser prorrogado, uma única vez, por igual
+período.
+
+Art. 57. No pedido de Certificado de Regularização e nos pedidos de Certificado de
+Acessibilidade e Certificado de Segurança, quando houver necessidade de execução de obras
+ou serviços para a adaptação da edificação às normas aplicáveis, podem ser emitidas,
+respectivamente:
+
+I - Notificação de Exigências Complementares - NEC, com prazo de até 180 (cento e
+oitenta) dias;
+
+II - Intimação para Execução de Obras e Serviços - IEOS, com prazo de até 180 (cento
+e oitenta) dias.
+
+Parágrafo único. Nos casos previstos no "caput" deste artigo, a pedido do interessado,
+por motivo justificado, o prazo pode ser prorrogado uma única vez por igual período.
+
+Art. 58. O pedido deve ser indeferido nas seguintes situações:
+
+I - ausência da documentação exigida ou projeto apresentado com insuficiência de
+informação de modo a impedir a análise e decisão do pedido;
+
+II - projeto com infrações insanáveis frente ao disposto no PDE e na LPUOS;
+
+III - não atendimento ao "comunique-se" no prazo concedido;
+
+IV - não atendimento à NEC no prazo concedido;
+
+V - não atendimento à IEOS no prazo concedido;
+
+VI - alteração do uso do projeto de edificação.
+
+
+
+Art. 59. O prazo para a interposição de recurso é de 30 (trinta) dias a contar da data da
+publicação do despacho de indeferimento, após o qual o processo deve ser arquivado, sem
+prejuízo da ação fiscal correspondente e cobrança das taxas devidas.
+
+Art. 60. Os prazos fixados neste Código são contados em dias corridos, a partir do
+primeiro dia útil após o evento de origem até o seu dia final inclusive.
+
+Parágrafo único. Caso não haja expediente no dia final do prazo, prorroga-se
+automaticamente o seu término para o dia útil imediatamente posterior.
+
+Art. 61. Os prazos de validade do Alvará de Aprovação e do Alvará de Execução ficam
+suspensos enquanto perdurar qualquer um dos seguintes impedimentos ao início ou
+prosseguimento da obra:
+
+I - decisão judicial determinando ou que implique a paralisação ou o não início da obra;
+
+II - calamidade pública;
+
+III - declaração de utilidade pública ou interesse social;
+
+IV - abertura de processo de tombamento.
+
+Art. 62. Os documentos de controle da atividade edilícia de que trata este Código
+podem, enquanto vigentes, a qualquer tempo, mediante ato da autoridade competente, ser:
+
+I - revogados, atendendo a relevante interesse público;
+
+II - cassados, em caso de desvirtuamento, por parte do interessado, da licença
+concedida ou de descumprimento de exigência estabelecida em sua emissão;
+
+III - anulados, em caso de comprovação de ilegalidade em sua expedição.
+
+Art. 63. O Certificado de Conclusão, o Certificado de Regularização, o Certificado de
+Acessibilidade e o Certificado de Segurança perdem sua eficácia caso ocorram alterações de
+ordem física no imóvel em relação às condições regularmente aceitas pela Prefeitura.
+
+Art. 64. O Alvará de Autorização é expedido a título precário, podendo ser cancelado a
+qualquer tempo por desvirtuamento de seu objeto ou desinteresse em sua manutenção ou
+revalidação.
+
+Art. 65. O cadastro de equipamentos perde a eficácia caso ocorra alteração de ordem
+física no equipamento em relação às condições regularmente cadastradas na Prefeitura ou
+caso a respectiva renovação não seja solicitada dentro do prazo legal.
+
+Art. 66. Constatada a qualquer tempo a não veracidade das declarações apresentadas
+nos pedidos de que trata esta lei, aplicam-se, ao proprietário ou possuidor e profissionais
+envolvidos, as penalidades administrativas previstas neste Código, sem prejuízo das sanções
+criminais cabíveis.
+
+§ 1º A atuação irregular do profissional deve ser comunicada ao órgão federal
+fiscalizador do exercício profissional.
+
+§ 2º Caso haja elementos que indiquem a prática de infração penal, a Prefeitura
+comunicará o fato à autoridade policial competente.
+
+Art. 67. Caso se tenha notícia de fato que possa ensejar a cassação ou anulação do
+documento expedido, nos termos dos incisos II e III do artigo 62 deste Código, a Prefeitura
+deve notificar o interessado para a apresentação de defesa no prazo de 30 (trinta) dias, de
+forma a garantir o contraditório e a ampla defesa, podendo, na defesa, comprovar ter sido
+sanada a irregularidade.
+
+§ 1º Por motivo relevante ou para evitar prejuízo de difícil reparação, a Prefeitura pode
+suspender os efeitos do documento emitido até decisão sobre sua anulação ou cassação.
+
+§ 2º Decorrido o prazo para defesa, a Prefeitura pode efetuar as diligências cabíveis e
+pedir esclarecimentos a outro órgão público envolvido.
+
+§ 3º No prazo de 30 (trinta) dias, a autoridade deve decidir a respeito da anulação ou
+cassação do documento.
+
+## Seção II - 
+Das Instâncias e Prazos para Despacho
+
+Art. 68. As instâncias administrativas para a apreciação e decisão dos pedidos de que
+trata este Código, protocolados a partir da data de sua vigência, são as seguintes:
+
+I - para os pedidos de competência da Secretaria Municipal de Licenciamento:
+
+a) Diretor de Divisão Técnica;
+
+b) Coordenador;
+
+c) Secretário Municipal de Licenciamento;
+
+II - para os pedidos de competência das Subprefeituras:
+
+a) Supervisor Técnico de Uso do Solo e Licenciamentos;
+
+b) Coordenador de Planejamento e Desenvolvimento Urbano;
+
+c) Subprefeito.
+
+§ 1º Cabe recurso à autoridade imediatamente superior àquela que proferiu a decisão.
+
+§ 2º A competência para a apreciação dos pedidos e decisão em primeira instância
+pode ser delegada aos técnicos e chefes de seção, mediante portaria do Secretário Municipal
+de Licenciamento ou do Secretário Municipal de Coordenação das Subprefeituras, mantida a
+competência originária para a apreciação e decisão dos recursos.
+
+§ 3º Os despachos do Secretário Municipal de Licenciamento e dos Subprefeitos em
+grau de recurso, bem como o decurso do prazo recursal encerram definitivamente a instância
+administrativa.
+
+Art. 69. O prazo para a decisão dos pedidos não pode exceder 90 (noventa) dias,
+inclusive quando se tratar de recurso.
+
+§ 1º Prazos diferentes podem ser fixados por ato do Executivo, em função da
+complexidade da análise do pedido.
+
+§ 2º O curso do prazo fixado no "caput" deste artigo fica suspenso durante a pendência
+do atendimento, pelo interessado, das exigências feitas no "comunique-se".
+
+Art. 70. Escoado o prazo para a decisão do processo de Alvará de Aprovação, o
+interessado pode requerer o Alvará de Execução.
+
+§ 1º Decorridos 30 (trinta) dias contados da data do protocolo do pedido do Alvará de
+Execução, caso o processo não tenha sido indeferido, a obra pode ser iniciada, sendo de
+inteira responsabilidade do proprietário ou possuidor e profissionais envolvidos a adequação da
+obra às posturas municipais.
+
+§ 2º Quando solicitado Alvará de Aprovação e de Execução em conjunto, o prazo para
+a decisão é de 120 (cento e vinte) dias.
+
+§ 3º Nos casos de incidência de outorga onerosa, o início da obra fica condicionado à
+comprovação de seu pagamento.
+
+## Seção III - Dos Procedimentos Especiais
+
+Art. 71. Podem ser objeto de regulamentação, por ato do Executivo, os procedimentos,
+exigências e prazos diferenciados para exame de pedidos relativos ao licenciamento de:
+
+I - empreendimento da Administração Pública Direta e Indireta;
+
+II - Empreendimento Habitacional de Interesse Social em ZEIS - EZEIS,
+Empreendimento Habitacional de Interesse Social - EHIS, Empreendimento Habitacional do
+Mercado Popular - EHMP, Habitação de Interesse Social - HIS, Habitação de Mercado Popular
+- HMP e moradia econômica, definidos em legislação específica;
+
+III - polo gerador de tráfego;
+
+IV - empreendimento gerador de impacto ambiental;
+
+
+V - empreendimento gerador de impacto de vizinhança;
+
+VI - serviços, obras e empreendimentos que, por sua natureza, admitam procedimentos
+simplificados.
+
+# CAPÍTULO V
+
+## DA EDIFICAÇÃO EXISTENTE
+
+
+## Seção I - Da Edificação Regular
+
+Art. 72. Para os fins de aplicação deste Código, a edificação existente é considerada
+regular quando:
+
+I - tiver Certificado de Conclusão ou documento equivalente;
+
+II - constar do Setor de Edificações Regulares do Cadastro de Edificações do
+Município.
+
+Parágrafo único. É aceita como regular a edificação cuja área seja menor ou apresente
+divergência de, no máximo, 5% (cinco por cento) para maior em relação à área constante do
+documento utilizado para a comprovação de sua regularidade.
+
+## Seção II - Da Reforma
+
+Art. 73. A edificação regularmente existente pode ser reformada desde que a edificação
+resultante não crie nem agrave eventual desconformidade com a LOE, PDE ou LPUOS.
+
+Art. 74. A edificação existente irregular, no todo ou em parte, que atenda ao disposto
+na LOE, PDE ou LPUOS pode ser regularizada e reformada, expedindo-se o Certificado de
+Regularização para a área a ser regularizada e Alvará de Aprovação para a reforma
+pretendida.
+
+Art. 75. A edificação irregular, no todo ou em parte, que não atenda na parte irregular
+ao disposto na LOE, PDE ou LPUOS pode ser reformada desde que seja prevista a supressão
+da infração.
+
+Parágrafo único. No caso previsto no "caput" deste artigo, o Certificado de Conclusão
+para a reforma, parcial ou total, só pode ser concedido após a supressão da infração.
+
+## Seção III - Da Requalificação
+
+Art. 76. A edificação existente licenciada de acordo com a legislação edilícia vigente
+anteriormente a 23 de setembro de 1992, data da entrada em vigor da Lei nº 11.228, de 25 de
+junho de 1992, e com área regular lançada no Cadastro de Edificações do Município pelo
+período mínimo de 10 (dez) anos, independentemente de sua condição de regularidade na
+data do protocolo do pedido, pode ser requalificada, nos termos deste Código.
+
+Art. 77. Na requalificação, são aceitas soluções que, por implicação de caráter
+estrutural, não atendam às disposições previstas na LOE, PDE ou LPUOS, desde que não
+comprometam a salubridade, nem acarretem redução de acessibilidade e de segurança de
+uso.
+
+§ 1º As disposições deste artigo referem-se a condições existentes de implantação,
+iluminação, insolação, circulação, acessibilidade, estacionamento de veículos e segurança de
+uso da edificação.
+
+§ 2º O projeto deve observar soluções de acessibilidade que atendam aos princípios da
+adaptação razoável.
+
+Art. 78. Na requalificação, admite-se a ampliação da área construída para suprir as
+necessidades de adequação e modernização das instalações da edificação, ainda que
+ultrapassados os índices urbanísticos estabelecidos no PDE ou LPUOS.
+
+
+
+§ 1º No caso previsto no "caput" deste artigo, admite-se, a critério da Prefeitura, o
+acréscimo do coeficiente de aproveitamento em até 10% (dez por cento) e da taxa de
+ocupação em até 20% (vinte por cento) em relação aos índices da edificação existente a ser
+requalificada.
+
+§ 2º Considera-se não computável o aumento de área quando destinado à melhoria
+das condições de segurança de uso, acessibilidade e higiene da edificação existente.
+
+## Seção IV - Da Reconstrução
+
+Art. 79. A edificação regular pode ser reconstruída, no todo ou em parte, quando
+motivada pela ocorrência de incêndio ou outro sinistro.
+
+Parágrafo único. Caso se pretenda introduzir alterações em relação à edificação
+anteriormente existente, a área a ser acrescida deve ser analisada como reforma.
+
+Art. 80. A Prefeitura pode recusar, no todo ou em parte, a reconstrução nos moldes
+anteriores de edificação com índices e volumetria em desacordo com o disposto na LOE, PDE
+ou LPUOS que seja considerada prejudicial ao interesse urbanístico.
+
+# CAPÍTULO VI
+
+## DOS PROCEDIMENTOS FISCALIZATÓRIOS RELATIVOS À ATIVIDADE EDILÍCIA
+
+
+## Seção I - Verificação da Regularidade da Obra
+
+Art. 81. Toda obra, edificação, serviço e equipamento pode, a qualquer tempo, ser
+vistoriado pela Prefeitura para a verificação do cumprimento das normas estabelecidas neste
+Código.
+
+Art. 82. Deve ser mantido, no local da obra ou serviço, o documento que comprova o
+licenciamento da atividade edilícia em execução, sob pena de lavratura de autos de intimação
+e de multa, nos termos deste Código e legislação pertinente à matéria.
+
+Art. 83. Constatada irregularidade na execução da obra, devem ser adotados os
+seguintes procedimentos:
+
+I - para a obra sem licença expedida pela Prefeitura, ao proprietário ou possuidor,
+devem ser lavrados, concomitantemente:
+
+a) auto de multa por execução da obra sem licença;
+
+b) auto de embargo;
+
+c) auto de intimação para adotar as providências visando a solução da irregularidade
+no prazo de 5 (cinco) dias;
+
+II - pelo desvirtuamento da licença, ao proprietário ou possuidor e ao responsável
+técnico pela obra, devem ser lavrados:
+
+a) auto de intimação para adotar as providências visando a solução da irregularidade
+no prazo de 5 (cinco) dias e auto de multa por execução da obra com desvirtuamento da
+licença;
+
+b) no caso do desatendimento da intimação, auto de embargo e correspondente auto
+de multa de embargo;
+
+III - pelo desatendimento de qualquer disposição deste Código, devem ser lavrados:
+
+a) auto de intimação para adotar as providências visando o atendimento da disposição
+deste Código no prazo de 5 (cinco) dias;
+
+b) auto de multa correspondente à infração.
+
+§ 1º Durante o embargo, fica permitida somente a execução dos serviços
+indispensáveis à eliminação das infrações que o motivaram, observadas as exigências da
+legislação pertinente à matéria.
+
+
+§ 2º O embargo cessa somente após:
+
+I - a eliminação das infrações que o motivaram, em se tratando de obra com licença;
+
+II - a expedição de Alvará de Autorização ou Alvará de Execução, em se tratando de
+obra sem licença.
+
+Art. 84. A Prefeitura, nos 5 (cinco) dias subsequentes ao embargo, deve vistoriar a obra
+e, se constatada resistência ao embargo, adotar os seguintes procedimentos:
+
+I - aplicar multas diárias, ao proprietário ou ao possuidor e ao responsável técnico pela
+obra, até a sua paralisação ou até que a regularização da situação seja comunicada ao setor
+competente e confirmada pela Prefeitura no prazo de 5 (cinco) dias contados da data do
+protocolo da comunicação;
+
+II - caso a aplicação das multas diárias se mostre insuficiente, solicitar auxílio policial
+bem como providenciar os meios necessários ao imediato cumprimento do embargo, tais como
+a apreensão de materiais e o desmonte ou lacração de equipamentos e edificações
+transitórias, lavrando o respectivo auto;
+
+III - noticiar imediatamente, à autoridade policial, o desrespeito ao embargo,
+requerendo a instauração de inquérito policial para a apuração da responsabilidade do infrator
+por crime de desobediência.
+
+Parágrafo único. Para os fins do disposto neste Código, considera-se resistência ao
+embargo o prosseguimento dos trabalhos no imóvel sem a eliminação das irregularidades
+exigidas no auto de intimação.
+
+Art. 85. Esgotadas todas as providências administrativas para a paralisação da obra, o
+servidor municipal deve:
+
+I - extrair cópia das principais peças do processo administrativo para encaminhamento
+à Delegacia de Polícia, a fim de instruir o inquérito policial;
+
+II - expedir ofícios ao CREA ou CAU com as informações do processo administrativo
+para a apuração da responsabilidade profissional;
+
+III - encaminhar o processo original ao setor jurídico para manifestação e posterior
+encaminhamento ao Departamento Judicial da Procuradoria Geral do Município para as
+providências de ajuizamento da ação judicial cabível, sem prejuízo da incidência de multas
+diárias, em processo próprio, caso persistam as irregularidades.
+
+Art. 86. Constatada situação de risco, em vistoria técnica realizada por servidor com
+competência específica, além das autuações referidas nos artigos 82 a 84 deste Código, deve
+ser imediatamente lavrado o auto de interdição, seguindo-se, no que couber, os procedimentos
+previstos na Seção II deste Capítulo.
+
+Parágrafo único. Na hipótese prevista no "caput" deste artigo, pode ocorrer o
+levantamento parcial do embargo para o fim específico da execução das medidas necessárias
+à eliminação do risco, ficando condicionado à apresentação de ART ou RRT relacionando os
+serviços a serem executados e seu cronograma de execução.
+
+## Seção II - Da Verificação da Estabilidade, Segurança e Salubridade da Obra
+
+Art. 87. Verificada a inexistência de condições de estabilidade, segurança ou
+salubridade de uma obra, edificação, serviço ou equipamento, o proprietário ou o possuidor e o
+responsável técnico pela obra devem ser intimados a dar início às medidas necessárias à
+solução da irregularidade no prazo de 5 (cinco) dias, devendo ainda ser lavrado o auto de
+interdição total ou parcial do imóvel, dando-se ciência aos proprietários e ocupantes.
+
+§ 1º No caso de a irregularidade constatada apresentar perigo de ruína ou
+contaminação, ocorrerá, se necessário, a interdição do entorno do imóvel.
+
+§ 2º O não cumprimento da intimação para a regularização necessária ou interdição
+implica responsabilidade exclusiva do infrator, eximindo-se a Prefeitura da responsabilidade
+pelos danos decorrentes de eventual sinistro.
+
+
+§ 3º Durante a interdição, fica permitida somente a execução dos serviços
+indispensáveis à eliminação da irregularidade constatada.
+
+Art. 88. Decorrido o prazo concedido, a Prefeitura deve adotar as seguintes medidas:
+
+I - pelo desatendimento da intimação, aplicar multas diárias ao infrator até que sejam
+adotadas as medidas exigidas;
+
+II - verificada a desobediência à interdição:
+
+a) solicitar auxílio policial para o imediato cumprimento da interdição, lavrando o
+respectivo auto;
+
+b) noticiar imediatamente, à autoridade policial, o desrespeito à interdição, requerendo
+a instauração de inquérito policial para a apuração da responsabilidade do infrator por crime de
+desobediência;
+
+c) encaminhar o processo para as providências de ajuizamento da ação judicial cabível,
+sem prejuízo da incidência de multas diárias caso persista o desatendimento da intimação
+prevista no inciso I deste artigo.
+
+Art. 89. O atendimento da intimação não desobriga o proprietário ou possuidor e o
+responsável técnico pela obra do cumprimento das formalidades necessárias à regularização
+da obra, sob pena de aplicação das sanções cabíveis.
+
+Art. 90. O proprietário ou possuidor do imóvel que constatar perigo de ruína ou
+contaminação pode, devidamente assistido por profissional habilitado, dar início imediato às
+obras de emergência, comunicando o fato, por escrito, à Prefeitura e justificando e informando
+a natureza dos serviços a serem executados, observadas as exigências da legislação
+pertinente à matéria.
+
+## Seção III - Das Penalidades
+
+Art. 91. A inobservância de qualquer disposição deste Código constitui infração sujeita
+à aplicação das penalidades previstas na Tabela de Multas constante do seu Anexo III.
+
+Art. 92. As penalidades previstas por desrespeito às normas deste Código aplicam-se
+também em relação a imóveis de valor cultural, histórico, artístico, paisagístico ou ambiental
+preservados ou a serem preservados e, ainda, a imóveis que, em razão do seu gabarito de
+altura e recuos, sejam necessários à preservação da volumetria do entorno, sem prejuízo da
+incidência das penalidades previstas em legislação própria.
+
+Art. 93. A edificação concluída sem a obtenção de Certificado de Conclusão enseja a
+intimação do infrator para, no prazo de 5 (cinco) dias, solicitar o documento à Prefeitura, sob
+pena de lavratura do correspondente auto de multa.
+
+§ 1º O pedido de Certificado de Conclusão suspende a ação fiscalizatória até a
+emissão desse documento ou o indeferimento do pedido, o que ocorrer primeiro.
+
+§ 2º A multa será reaplicada a cada 90 (noventa) dias até a regularização da
+edificação, limitado esse período a 1 (um ano).
+
+Art. 94. A edificação concluída sem a obtenção de Certificado de Acessibilidade e de
+Certificado de Segurança enseja a intimação do infrator para, no prazo de 5 (cinco) dias,
+solicitar o documento à Prefeitura, sob pena de lavratura do correspondente auto de multa.
+
+§ 1º O pedido de Certificado de Acessibilidade ou de Certificado de Segurança
+suspende a ação fiscalizatória até a emissão desse documento ou o indeferimento do pedido, o
+que ocorrer primeiro.
+
+§ 2º A multa será reaplicada a cada 90 (noventa) dias até a regularização da
+edificação, limitado esse período a 1 (um ano).
+
+Art. 95. Para os efeitos deste Código, considera-se infrator o proprietário ou possuidor
+do imóvel e, quando for o caso, o responsável técnico pela obra.
+
+
+
+§ 1º O infrator deve ser notificado pessoalmente ou por via postal, com aviso de
+recebimento, ou, ainda, por edital nas hipóteses de recusa do recebimento da notificação ou de
+sua não localização.
+
+§ 2º. O infrator considera-se notificado quando encaminhada a notificação por via
+postal ao endereço constante do cadastro da Municipalidade.
+
+§ 3º Quando prevista a aplicação de multa ao proprietário ou possuidor e ao
+responsável técnico pela obra, a responsabilidade é solidária, considerando-se ambos os
+infratores.
+
+§ 4º Os sucessores do proprietário ou do possuidor do imóvel também respondem
+pelas penalidades.
+
+Art. 96. Contra os atos de fiscalização previstos neste Código, cabe defesa ao
+Supervisor Técnico de Fiscalização, da Subprefeitura, no prazo de 15 (quinze) dias, contados:
+
+I - para a intimação e o embargo, a partir da data da respectiva notificação;
+
+II - para a multa, a partir da data de sua publicação no Diário Oficial da Cidade.
+
+§ 1º Contra o despacho decisório que desacolher a defesa, caberá um único recurso,
+ao Subprefeito, no prazo de 15 (quinze) dias contados da data da publicação do despacho.
+
+§ 2º As defesas e recursos suspendem a exigibilidade dos autos de multa impugnados.
+
+§ 3º A defesa contra o auto de embargo não suspende a ação fiscalizatória e não obsta
+a aplicação de outras multas previstas neste Código.
+
+Art. 97. Ao proprietário ou possuidor devem ser aplicadas multas nos valores indicados
+na Tabela de Multas e, ao responsável técnico pela obra, multas na proporção de 80% (oitenta
+por cento) dos referidos valores.
+
+Art. 98. A reincidência da infração, assim considerada a referente à mesma obra e ao
+mesmo documento, gera a aplicação das penalidades com acréscimo de 20% (vinte por cento)
+a cada reincidência, até o limite de 2 (duas) vezes o valor da multa inicial.
+
+Art. 99. Para a aplicação dos dispositivos deste Capítulo às moradias econômicas, os
+prazos devem ser dilatados até o triplo dos prazos previstos e reduzidos os valores das multas
+em 50% (cinquenta por cento) dos valores devidos.
+
+Art. 100. O valor da multa deve ser atualizado anualmente pela variação do IPCA,
+apurado pelo IBGE, ou por outro índice que venha a substituí-lo.
+
+Art. 101. Quando não paga até a data do vencimento, o valor da multa deve ser
+atualizado da forma e pelo índice de correção estabelecidos na Lei nº 10.734, de 1989, com a
+redação dada pela Lei nº 13.275, de 2002, e acrescido de juros moratórios calculados à taxa de
+0,33% (trinta e três centésimos por cento), por dia de atraso, sobre o valor do débito, até o
+limite de 20% (vinte por cento), sem prejuízo, quando for o caso, do acréscimo de honorários
+advocatícios, custas e demais despesas judiciais, conforme a legislação municipal pertinente.
+
+# CAPÍTULO VII
+
+## DO ALINHAMENTO E DO MELHORAMENTO VIÁRIO
+
+
+Art. 102. Para os fins deste Código, consideram-se fixados os atuais alinhamentos e
+nivelamento dos logradouros públicos existentes no Município de São Paulo, oficializados ou
+pertencentes a loteamento aceito ou regularizado, bem como daqueles oriundos de
+melhoramento viário executado sob a responsabilidade do Poder Público Municipal, Estadual
+ou Federal.
+
+Parágrafo único. No caso de indefinição, a pedido do interessado, a Prefeitura deve
+fornecer o alinhamento e nivelamento, mediante a emissão de certidão.
+
+Art. 103. Enquanto não executados, devem ser observados os novos alinhamentos
+aprovados constantes das leis de melhoramento viário.
+
+Parágrafo único. O disposto no "caput" deste artigo não se aplica aos planos de
+melhoramento publicados anteriormente a 14 de setembro de 2002, data da entrada em vigor
+
+da Lei nº 13.430, de 13 de setembro de 2002, desde que não exista declaração de utilidade
+pública em vigor por ocasião da emissão da aprovação do projeto.
+
+Art. 104. A alteração de alinhamento de logradouro público que importe em
+alargamento, estreitamento ou retificação, total ou parcial, deve ser objeto de plano de
+melhoramento viário aprovado por lei.
+
+Parágrafo único. A alteração de nivelamento de logradouro público, parcial ou em toda
+sua extensão, pode ser definida por ato do Executivo.
+
+Art. 105. É permitida a execução de qualquer obra em imóvel totalmente atingido por
+plano de melhoramento público e sem declaração de utilidade pública ou de interesse social
+em vigor, observado o disposto na LOE, PDE e LPUOS.
+
+§ 1º No caso de declaração de utilidade pública ou de interesse social em vigor,
+permite-se a execução de qualquer obra, a título precário, observado o disposto na LOE, PDE
+e LPUOS, não sendo devida ao proprietário qualquer indenização pela benfeitoria ou acessão
+quando da execução do melhoramento público.
+
+§ 2º Considera-se também como totalmente atingido por melhoramento público o
+imóvel:
+
+I - cujo remanescente não possibilite a execução de edificação que atenda ao disposto
+na LOE, PDE e LPUOS;
+
+II - no qual, por decorrência de nova situação de nivelamento do logradouro, seja
+dificultada a implantação de edificações, a critério da Prefeitura.
+
+Art. 106. A edificação nova e as novas partes da edificação existente, nas reformas
+com aumento de área executadas em imóvel parcialmente atingido por plano de melhoramento
+público aprovado por lei e sem declaração de utilidade pública ou de interesse social em vigor,
+devem observar as seguintes disposições:
+
+I - atender aos recuos mínimos obrigatórios, à taxa de ocupação e ao coeficiente de
+aproveitamento estabelecidos no PDE e LPUOS, em relação ao lote original;
+
+II - observar soluções que garantam, após a execução do plano de melhoramento
+público, o pleno atendimento, pelas edificações remanescentes, das disposições previstas na
+LOE, PDE e LPUOS em relação ao lote resultante da desapropriação, inclusive com a previsão
+de demolição total se for o caso.
+
+Parágrafo único. Atendidas as disposições do "caput" deste artigo, quando constar
+declaração de utilidade pública ou interesse social em vigor, a execução de edificação na faixa
+a ser desapropriada poderá ser permitida pela Prefeitura, a título precário, não sendo devida ao
+proprietário qualquer indenização pela benfeitoria ou acessão quando da execução do
+melhoramento público.
+
+Art. 107. Fica assegurado, ao proprietário que doar à Prefeitura do Município de São
+Paulo a parcela do imóvel necessária à execução do melhoramento viário aprovado por lei, o
+direito de utilizar também esta parcela doada no cálculo do coeficiente de aproveitamento.
+
+§ 1º Nas condições previstas no "caput" deste artigo, o projeto deve ser implantado
+unicamente sobre a área remanescente, observando-se em relação a esta todos os demais
+parâmetros urbanísticos e recuos aplicáveis.
+
+§ 2º No caso de o melhoramento prever a instituição de faixa não edificável, não se
+aplica o disposto neste artigo, devendo a faixa ser indicada no projeto da edificação e constar
+do documento a ser emitido.
+
+# CAPÍTULO VIII
+
+## DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 108. Para fins de aplicação dos índices de ocupação e aproveitamento do solo,
+observados os limites estabelecidos na LPUOS, não é considerada área construída
+computável:
+
+I - o terraço aberto, observada a área construída máxima por pavimento equivalente a
+5% (cinco por cento) da área do terreno;
+
+
+II - a obra complementar e o mobiliário com área construída de até 30,00mz (trinta
+metros quadrados);
+
+III - a saliência, com as seguintes características:
+
+a) aba horizontal e vertical, "brise" com até 0,40m (quarenta centímetros) de
+profundidade, beiral da cobertura com até 1,50m (um metro e meio) de largura;
+
+b) viga, pilar, ornato e ornamento com até 0,40m (quarenta centímetros) de avanço;
+
+c) jardineira e floreira com até 0,40m (quarenta centímetros) de avanço;
+
+d) marquise não sobreposta que avance até 50% (cinquenta por cento) das faixas de
+recuo obrigatório;
+
+IV - o mobiliário constituído de estrado ou passadiço instalado a meia altura em
+compartimento, com pé-direito máximo de 2,30m (dois metros e trinta centímetros), sem
+permanência humana prolongada, ocupando, no máximo, 30% (trinta por cento) da área do
+compartimento e com área construída máxima de:
+
+a) 250,00m² (duzentos e cinquenta metros quadrados), destinado a plataforma elevada
+para controle em indústrias ou estrado para estoque em lojas e comércio em geral;
+
+b) 30,00m² (trinta metros quadrados), para os demais usos não residenciais;
+
+V - a área técnica, sem permanência humana, destinada a equipamentos;
+
+VI - o compartimento de apoio ao uso da edificação localizado em pavimento destinado
+a estacionamento de veículos, motocicletas e bicicletas, inclusive a vestiários, instalações
+sanitárias e pequenos depósitos de uso comum.
+
+Parágrafo único. No equipamento destinado à prestação de serviço público de uso
+coletivo, a cobertura de quadra esportiva, quando destinada à captação de água de chuva ou à
+instalação de sistema de energia solar de aquecimento de água para utilização pela própria
+atividade desenvolvida na edificação, não será computada no cálculo do coeficiente de
+aproveitamento e da taxa de ocupação.
+
+Art. 109. Ficam consolidados os dados das edificações constantes do Setor de
+Edificações Regulares e do Setor de Edificações Irregulares do Cadastro de Edificações do
+Município na data da publicação deste Código.
+
+Art. 110. O Cadastro de Edificações do Município é composto do conjunto de
+edificações existentes regulares e irregulares, assim enquadradas:
+
+I - no Setor de Edificações Regulares, a edificação para a qual tenha sido ou venha a
+ser expedido Certificado de Conclusão ou documento equivalente;
+
+II - no Setor de Edificações Irregulares, a edificação que:
+
+a) não foi objeto de licenciamento;
+
+b) sofreu intervenção após ter sido licenciada;
+
+c) foi objeto de anulação ou cassação do Certificado de Conclusão ou documento
+equivalente.
+
+Parágrafo único. Caso a fiscalização tributária apure alteração no imóvel, deve informar
+o órgão competente para avaliação da irregularidade e providências cabíveis.
+
+Art. 111. A edificação cuja titularidade seja do Município, Estado e União, ainda que
+implantada em imóvel não constante do Cadastro de Edificações do Município, fica
+considerada regular na situação existente em 31 de julho de 2014, data da Lei nº 16.050, de 31
+de julho de 2014.
+
+Parágrafo único. O atendimento às normas de estabilidade, segurança, salubridade e
+acessibilidade na edificação de que trata o "caput" deste artigo é de responsabilidade do ente
+público que a ocupa.
+
+Art. 112. Os artigos 2º e 13 da Lei nº 15.150, de 6 de maio de 2010, passam a vigorar
+com as seguintes alterações:
+
+"
+Art. 2º ..............................
+
+§ 1º São consideradas "Áreas Especiais de Tráfego -AET:
+
+I - AET 1 - Minianel Viário: vias classificadas pela legislação vigente como Estruturais
+N1, N3 e Coletoras, inseridas no Minianel Viário;
+
+II - AET 2 - na área externa ao Minianel Viário: vias classificadas pela legislação
+vigente como Estruturais N1, N2 e N3; e
+
+III - AET 3 - áreas de Operação Urbana: em todas as vias, independentemente de sua
+classificação.
+
+§ 2º Para fins de enquadramento das edificações como Poios Geradores de Tráfego PGT, são consideradas vagas de estacionamento de veículos o somatório das vagas
+oferecidas no projeto, excetuadas aquelas destinadas a carga e descarga, motocicletas e
+bicicletas." (NR)
+"
+Art. 13. A Certidão de Diretrizes é documento obrigatório para a obtenção de Alvará de
+Aprovação e Execução, de Alvará de Execução e de Certificado de Regularização para
+empreendimento qualificado como Polo Gerador de Tráfego.
+
+§ 1º Quando se tratar de pedido de Alvará de Aprovação, este será expedido mediante
+manifestação favorável da CET em relação ao cumprimento, no projeto do empreendimento, do
+disposto nos incisos I a III do parágrafo único do artigo 4º desta lei.
+
+§ 2º No caso de pedido de Certificado de Regularização, também deverá ser
+apresentado o Termo de Recebimento e Aceitação Definitivo - TRAD." (NR)
+
+Art. 113. Os artigos 82 e 83 da Lei nº 15.764, de 27 de maio de 2013, passam a vigorar
+com as seguintes alterações:
+"
+Art. 82 ......................................
+IV. emitir parecer sobre a aplicação da legislação de edificações e de uso, ocupação e
+parcelamento do solo e do Plano Diretor Estratégico - PDE, em especial no que diz respeito à
+implantação e afastamentos de edificação em função de determinantes construtivas resultantes
+de:
+
+a) presença de solo contaminado;
+
+b) nível do lençol freático aflorado;
+
+c) área passível de alagamento;
+
+d) edificação vizinha implantada em desacordo com o estabelecido na LPUOS;
+................................................" (NR)
+"
+Art. 83. A CEUSO é composta de 8 (oito) membros, todos com seus respectivos
+suplentes, sendo 4 (quatro) do Poder Público e 4 (quatro) da sociedade civil pertencentes a
+entidades ligadas à engenharia, arquitetura e construção civil, na forma definida em decreto.
+..............................................................
+
+§ 2º Os representantes da CEUSO devem ser arquitetos ou engenheiros, podendo o
+representante da Secretaria Municipal dos Negócios Jurídicos ser Procurador do Município.
+...................................................." (NR)
+
+Art. 114. Ficam isentos do pagamento da TEV-COE e dispensados do pagamento dos
+preços públicos os pedidos de parcelamento do solo de interesse social e de mercado popular.
+
+Art. 115. O parcelamento do solo de imóvel cuja titularidade seja da União, do Estado e
+do Município fica sujeito ao prévio exame dos órgãos municipais competentes, independendo
+da expedição dos documentos de que trata este Código.
+
+§ 1º Caso apresentado, o pedido de parcelamento do solo do Município, Estado e
+União fica isento do pagamento da TEV-COE e dispensado do pagamento dos preços públicos.
+
+§ 2º A isenção a que se refere o § 1º deste artigo aplica-se, inclusive, às entidades da
+Administração Pública Indireta.
+
+
+Art. 116. Aplicam-se os procedimentos administrativos estabelecidos neste Código aos
+processos em andamento na data de sua entrada em vigor.
+
+§ 1º A reconsideração do despacho de primeira instância administrativa protocolada
+anteriormente à data da entrada em vigor deste Código deve ser apreciada pela segunda
+instância nele estabelecida.
+
+§ 2º O recurso em trâmite na última instância decisória extinta por este Código deve ser
+apreciado nesta instância quando:
+
+I - protocolado anteriormente à data de sua entrada em vigor;
+
+II - protocolado após a data de sua entrada em vigor, porém dentro do prazo
+estabelecido pela legislação anterior para este fim.
+
+§ 3º Aplicam-se as disposições dos §§ 1º e 2º deste artigo aos processos em
+andamento nos termos da Lei nº 11.522, de 3 de maio de 1994, Lei nº 13.558, de 14 de abril de
+2003, e Lei nº 13.876, de 23 de julho de 2004.
+
+Art. 117. O pedido protocolado até a data do início da vigência deste Código, ainda
+sem despacho decisório ou com interposição de recurso dentro do prazo legal, deve ser
+analisado e decidido de acordo com os requisitos técnicos da legislação anterior.
+
+§ 1º No caso de que trata o "caput" deste artigo, não será admitida qualquer mudança,
+alteração ou modificação que implique no agravamento das desconformidades em relação ao
+estabelecido neste Código.
+
+§ 2º Por opção e a pedido do interessado, a análise e decisão podem ocorrer
+integralmente nos termos deste Código.
+
+§ 3º No caso previsto no § 2º deste artigo, não será admitida a apresentação do projeto
+simplificado previsto neste Código, devendo o interessado, para tanto, desistir do processo em
+aberto, protocolar novo pedido e recolher as taxas devidas.
+
+Art. 118. O prazo de vigência do Alvará de Aprovação a ser expedido em processo
+protocolado em data anterior à data da entrada em vigor deste Código será de 3 (três) anos.
+
+Parágrafo único. O disposto no "caput" deste artigo aplica-se aos Alvarás de Aprovação
+e aos Alvarás de Aprovação e Execução já emitidos e vigentes na data da entrada em vigor
+deste Código.
+
+Art. 119. O Executivo, à vista da evolução tecnológica e dos costumes, promoverá a
+constante atualização das prescrições deste Código, fixando, para tanto, os seguintes
+objetivos:
+
+I - promoção das adequações e remanejamentos administrativos necessários ao
+processo de modernização e atualização deste Código, inclusive no que se refere à estrutura
+operacional da fiscalização;
+
+II - estabelecimento de novos procedimentos que permitam a reunião do maior número
+de experiências e informações de entidades e órgãos técnicos internos e externos à Prefeitura;
+
+III - estabelecimento de rotinas e sistemáticas de consulta a entidades representativas
+da comunidade.
+
+Parágrafo único. A Secretaria Municipal de Licenciamento é o órgão responsável pela
+coordenação do procedimento de atualização de que trata o "caput" deste artigo.
+
+Art. 120. A não observância das disposições deste Código, de seu decreto
+regulamentar e das normas aplicáveis sujeita o proprietário ou o possuidor e o profissional
+habilitado aos procedimentos fiscalizatórios e à aplicação das penalidades y-estabelecidas na
+Tabela de Multas constante do Anexo III desta lei, sem prejuízo das sanções administrativas e
+medidas judiciais cabíveis.
+
+Art. 121. Os projetos para áreas sob intervenção urbanística promovida pelo Poder
+Público, os equipamentos públicos, os programas habitacionais de interesse social, bem como
+o Empreendimento Habitacional de Interesse Social em ZEIS - EZEIS, Empreendimento
+Habitacional de Interesse Social - EHIS, Empreendimento Habitacional do Mercado Popular EHMP, Habitação de Interesse Social - HIS, Habitação do Mercado Popular - HMP e moradia
+
+econômica, definidos em legislação municipal, podem ser objeto de normas especiais diversas
+das adotadas por este Código e apropriadas à finalidade do empreendimento, fixadas por ato
+do Executivo.
+
+Art. 122. O Executivo regulamentará esta lei no prazo de 90 (noventa) dias contados da
+data de sua publicação.
+
+Art. 123. Esta lei entrará em vigor no prazo de 90 (noventa) dias contados da data de
+sua publicação, revogadas a Lei nº 5.534, de 18 de julho de 1958, Lei nº 8.382, de 13 de abril
+de 1976, Lei nº 9.843, de 4 de janeiro de 1985, Lei nº 10.671, de 28 de outubro de 1988, Lei nº
+11.228, de 25 de junho de 1992, Lei nº 11.441, de 12 de novembro de 1993, Lei nº 11.693, 22
+de dezembro de 1994, Lei nº 11.783, de 26 de maio de 1995, Lei nº 11.859, de 31 de agosto de
+1995, Lei nº 11.948, 8 de dezembro de 1995, Lei nº 12.561, de 8 de janeiro de 1998, Lei nº
+12.597, de 16 de abril de 1998, Lei nº 12.815, de 6 de abril de 1999, Lei nº 12.821, de 7 de abril
+de 1999, Lei nº 12.936, de 7 de dezembro de 1999, Lei nº 13.369, de 3 de junho de 2002, Lei
+nº 13.779, de 11 de fevereiro de 2004, Lei nº 14.459, de 3 de julho de 2007, Lei nº 15.649, de 5
+de dezembro de 2012, e Lei nº 15.831, de 24 de junho de 2013, e o artigo 12 da Lei nº 16.124,
+de 9 de março de 2015. Às Comissões competentes."
+Anexo I integrante da Lei nº , de de de .
+DISPOSIÇÕES TÉCNICAS
+1. CANTEIRO DE OBRAS
+
+1.1. Durante a execução da obra ou serviço é obrigatória a manutenção do passeio
+desobstruído e em perfeitas condições, conforme legislação municipal aplicável, sendo vedada
+sua utilização, ainda que temporária, como canteiro de obras ou para carga e descarga de
+materiais de construção.
+
+1.1.1. Os elementos do canteiro de obras não podem prejudicar a arborização da rua, a
+iluminação pública, a visibilidade de placas, avisos ou sinais de trânsito e outras instalações de
+interesse público.
+
+1.2. É obrigatório o fechamento do canteiro de obras no alinhamento, por alvenaria ou
+tapume.
+
+1.3. Durante o desenvolvimento de serviços de fachada na obra situada no alinhamento
+ou próximo a ele, é obrigatório o avanço do tapume sobre o passeio de forma a proteger o
+pedestre.
+
+1.4. Concluído o serviço de fachada ou paralisada a obra por período superior a 30
+(trinta) dias, o tapume deve ser obrigatoriamente recuado para o alinhamento.
+2. DA IMPLANTAÇÃO
+
+2.1. A implantação de qualquer edificação no lote, além do atendimento às disposições
+previstas no PDE e LPUOS e no COE, deve respeitar as normas referentes ao afastamento em
+relação às águas correntes ou dormentes, faixas de domínio público de rodovias e ferrovias,
+linhas de alta tensão, dutos e canalizações.
+
+2.2. Em atendimento ao disposto no Código Civil, deve ser observado:
+
+I - reserva de espaço para passagem de canalização de águas provenientes de lotes a
+montante, inclusive para a canalização de esgoto;
+
+II - distância mínima de 1,50m (um metro e cinquenta centímetros) para a abertura
+voltada para as divisas do lote, bem como metade dessa distância quando a abertura estiver
+perpendicular à divisa do lote, independentemente da existência ou da altura do muro de
+divisa.
+
+2.3. Nos cruzamentos dos logradouros públicos, deve ser previsto canto chanfrado de
+3,50m (três metros e cinquenta centímetros), salvo se tal concordância tiver sido fixada de
+forma diversa em arruamento ou plano de melhoramento público.
+
+2.4. Para os terrenos edificados, é facultativa a construção de muro de fecho em suas
+divisas, observadas as disposições do PDE e LPUOS.
+3. DAS CONDIÇÕES AMBIENTAIS
+
+
+3.1. A execução de qualquer tipo de obra junto a represa, lago, lagoa, rio, córrego e
+demais corpos d'água naturais deve atender as disposições de Área de Preservação
+Permanente - APP estabelecidas na legislação ambiental federal, estadual e municipal
+pertinente.
+
+3.1.1. A pedido do interessado, a APP pode ser descaracterizada pelo órgão municipal
+competente, quando constatada a ausência dos elementos que a caracterizam, de acordo com
+a legislação pertinente.
+
+3.2. Junto a corpo d'água canalizado em galeria fechada e em APP previamente
+descaracterizada nos termos do subitem 3.1.1, a execução de qualquer tipo de obra deve
+observar afastamentos de forma a constituir faixa não edificável.
+
+3.3. O manejo arbóreo decorrente da implantação do projeto de que trata o COE
+depende de licença do órgão municipal competente, observada a legislação municipal
+pertinente.
+
+3.4. O despejo das águas pluviais e das águas servidas canalizadas, inclusive
+daquelas provenientes do funcionamento de equipamento, bem como a ligação de esgoto,
+devem ser feitos por canalização ligada à rede coletora, de acordo com as normas municipais e
+aquelas emanadas da concessionária competente, sob pena de multa renovável a cada 30
+(trinta) dias.
+
+3.4.1. A edificação situada em área desprovida de rede coletora pública de esgoto deve
+ser provida de instalação destinada ao armazenamento, tratamento e destinação de esgoto, de
+acordo com as normas pertinentes.
+
+3.4.2. Não será permitido o despejo de águas pluviais sobre as calçadas e os imóveis
+vizinhos, devendo ser conduzidas por canalização sob o passeio à rede coletora, de acordo
+com as normas emanadas do órgão competente, sob pena de multa renovável a cada 30
+(trinta) dias.
+
+3.5. Qualquer movimento de terra deve ser executado com o devido controle
+tecnológico, a fim de assegurar a estabilidade, prevenir erosões e garantir a segurança dos
+imóveis e logradouros limítrofes, bem como não impedir ou alterar o curso natural do
+escoamento de águas pluviais e fluviais.
+
+3.6. O despejo do entulho da obra, bem como o material descartado pelo movimento de
+terra deve ser feito em local licenciado para tal finalidade, de acordo com a legislação municipal
+específica.
+
+3.7. Toda edificação a ser construída com área superior a 750,00m² (setecentos e
+cinquenta metros quadrados) deve ser dotada de abrigo compartimentado e suficientemente
+dimensionado para a guarda dos diversos tipos de lixo, tais como o não reciclável, o orgânico,
+o reciclável e o tóxico, localizado no interior do lote e com acesso direto ao logradouro.
+
+3.7.1. Não se aplica o disposto no subitem 3.7 às residências unifamiliares e às
+habitações agrupadas horizontalmente sem formar condomínio.
+
+3.8. A edificação nova com área construída superior a 1.500,00m² (mil e quinhentos
+metros quadrados) deve ser provida de instalação destinada a receber sistema de aquecimento
+de água por meio do aproveitamento da energia solar, quando destinada a:
+
+I - uso residencial, exceto as residências unifamiliares e as unidades habitacionais
+agrupadas horizontalmente sem formar condomínio com até 3 (três) banheiros;
+
+II - uso não residencial que disponha de instalações para vestiário e banho ou local
+onde se desenvolva atividade que utilize água aquecida;
+
+III - qualquer uso, quando for construída piscina de água aquecida.
+
+3.8.1. O sistema de instalações hidráulicas e os equipamentos de aquecimento de
+água por energia solar devem ser dimensionados para atender, no mínimo, 40% (quarenta por
+cento) de toda a demanda anual de energia necessária para o aquecimento da água.
+
+3.8.1.1. Admite-se desempenho inferior ao estabelecido neste subitem 3.8.1, no caso
+de comprovada inviabilidade técnica para alcançar o percentual mínimo estabelecido.
+
+
+3.8.1.2. Admite-se a adoção de outro sistema ou tecnologia que assegure o mesmo
+desempenho da redução do consumo de energia estabelecido neste subitem 3.8.1
+
+3.9. Toda edificação deve dispor de instalação permanente para gás combustível e,
+quando utilizado, o recipiente de gás deve ser armazenado fora da edificação, em ambiente
+exclusivo e dotado de abertura para ventilação permanente.
+
+3.10. As unidades condominiais, inclusive as habitacionais, devem dispor de sistema
+de medição individualizada do consumo de água, energia e gás.
+4. DAS CONDIÇÕES DE ACESSIBILIDADE
+
+4.1. Devem atender às condições de acessibilidade às pessoas com deficiência ou
+mobilidade reduzida estabelecidas no COE e legislação correlata, a edificação nova e a
+edificação existente em caso de sua reforma ou regularização, quando destinada a uso:
+
+I - público, entendido como aquele administrado por órgão ou entidade da
+Administração Pública Direta e Indireta ou por empresa prestadora de serviço público e
+destinado ao público em geral;
+
+II - coletivo, entendido como aquele destinado à atividade não residencial.
+
+4.1.2. As áreas comuns da edificação multifamiliar também devem observar as
+condições de acessibilidade.
+
+4.2. Ficam dispensadas do atendimento das exigências estabelecidas neste item 4:
+
+I - a edificação residencial unifamiliar, a unidade habitacional no conjunto de habitações
+agrupadas horizontalmente e a unidade habitacional na edificação de uso multifamiliar;
+
+II - o espaço e o compartimento de uso privado em edificação destinada a uso não
+residencial;
+
+III - o espaço sem permanência humana, inclusive quando destinado a equipamento;
+
+IV - o andar superior de edificação de pequeno porte destinado a uso não residencial.
+
+4.3. Na reforma e na requalificação da edificação existente, com ou sem mudança de
+uso, caso haja inviabilidade técnica de atendimento às condições de acessibilidade, deve ser
+realizada a adaptação razoável, nos termos do disposto no COE, não podendo ser reduzidas
+as condições já implantadas.
+
+4.4. A edificação deve ser dotada de rampa com largura mínima de 1,20m (um metro e
+vinte centímetros) para vencer desnível entre o logradouro público ou área externa e o piso
+correspondente à soleira de ingresso, admitida a instalação de equipamento mecânico de
+transporte permanente para esta finalidade.
+
+4.5. O equipamento mecânico de transporte permanente destinado às pessoas com
+deficiência ou mobilidade reduzida, quando prevista sua instalação, pode ocupar as faixas de
+recuo de frente, laterais e de fundo, não sendo considerado área computável no cálculo do
+coeficiente de aproveitamento e da taxa de ocupação.
+
+4.6. O único ou pelo menos um dos elevadores da edificação deve ser acessível,
+podendo ser substituído por rampa quando o desnível a vencer for igual ou inferior a 12,00m
+(doze metros), observadas as normas pertinentes.
+
+4.7. A edificação deve dispor de, pelo menos, uma instalação sanitária em local
+acessível e com dimensões adaptadas ao uso por pessoa com deficiência ou mobilidade
+reduzida, em quantidade e localização adequada ao uso a que se destina.
+
+4.8. Devem ser fixadas vagas especiais para estacionamento de veículo para uso por
+pessoa com deficiência ou mobilidade reduzida em número proporcional ao número de vagas
+para automóveis previsto no projeto, na proporcionalidade da tabela abaixo, observado o
+mínimo de uma:
+
+
+
+4.8.1. As vagas de que trata este subitem 4.8. devem ser incluídas no cálculo do
+número mínimo de vagas quando estabelecido na LPUOS ou legislação específica.
+5. DAS CONDIÇÕES DE AERAÇÃO E INSOLAÇÃO
+
+5.1. A aeração e a insolação naturais dos compartimentos são garantidas quando
+atendidas as normas pertinentes, podendo ser proporcionadas pelos seguintes espaços:
+
+I - recuo obrigatório previsto na LPUOS;
+
+II - espaço do logradouro;
+
+III - área livre interna ao lote;
+
+IV - espaço livre de aeração e insolação
+
+5.2. A altura "H" da edificação determina o afastamento necessário à aeração e
+insolação de seus compartimentos, sendo igual à soma das alturas dos andares considerados,
+contada sempre a partir do piso do pavimento térreo até o teto do andar considerado, podendo,
+inclusive, assumir valores variados na mesma fachada.
+
+5.3. Os volumes de uma edificação são classificados em função da sua altura "H",
+sendo:
+
+I - volume inferior "Vi", quando H â?¤ 10,00m (inferior ou igual a dez metros);
+
+II - volume superior "Vs", quando H > 10,00m (superior a dez metros);
+
+III - volume enterrado ou semienterrado "Ve", aquele situado abaixo do volume "Vi".
+
+5.4. O compartimento situado no volume "Vi" pode ter a aeração e insolação naturais
+proporcionadas pelos seguintes espaços:
+
+I - recuo obrigatório previsto na LPUOS;
+
+II - logradouro público;
+
+III - área livre interna ao lote com área mínima de 5,00m² (cinco metros quadrados) e
+largura mínima de 1,50m (um metro e cinquenta centímetros).
+
+5.5. O compartimento situado no volume "Vs", independentemente da existência de
+aberturas, tem sua aeração e insolação naturais proporcionadas pela faixa livre correspondente
+ao recuo mínimo estabelecido na LPUOS.
+
+5.5.1. Entre blocos de uma mesma edificação, o afastamento mínimo obrigatório é igual
+à soma das faixas livres de cada bloco.
+
+5.6. O compartimento destinado a repouso, estudo e estar na edificação residencial
+tem sua aeração e insolação naturais proporcionadas pelo espaço livre "Is".
+
+5.6.1. O espaço livre "Is" cujo valor seja expresso em metros pode ser escalonado por
+andar e corresponde a um semicírculo de raio correspondente a uma vez e meia a faixa livre
+prevista no subitem 5.5, respeitado o mínimo de 3,00m (três metros).
+
+5.6.2. Entre blocos de uma mesma edificação, o espaço livre "Is" de cada bloco deve
+tangenciar a faixa livre correspondente ao recuo mínimo estabelecido na LPUOS do outro
+bloco.
+
+
+5.7. No caso de área sujeita a diretrizes urbanísticas próprias ou operação urbana, para
+a qual haja expressa dispensa da observância dos recuos previstos no PDE e LPUOS, fica
+dispensado o atendimento do espaço livre "Is".
+
+5.8. Quando houver edificação vizinha implantada sem atendimento de recuo nas
+divisas laterais e de fundo, admite-se a justaposição da nova edificação à edificação lindeira,
+sem prejuízo dos índices de ocupação e aproveitamento previstos na LPUOS.
+6. DAS CONDIÇÕES DE SEGURANÇA DE USO E CIRCULAÇÃO
+
+6.1. Toda edificação e equipamento deve atender às disposições construtivas
+consideradas essenciais para a segurança de uso e circulação dos usuários, estabelecidas no
+COE e nas normas pertinentes ao assunto.
+
+6.1.1. Para os fins do disposto neste item 6, considera-se altura "h" a distância entre o
+piso do andar considerado e o piso de saída da edificação.
+
+6.2. A edificação existente deve ser adaptada às condições de segurança de uso,
+exceto quando se enquadrar em uma das seguintes situações:
+
+I - esteja desobrigada de espaços de circulação protegidos, de acordo com este item 6,
+e tenha:
+
+a) altura "h" igual ou inferior a 9,00m (nove metros); e
+
+b) população igual ou inferior a 100 (cem) pessoas por andar;
+
+II - seja destinada a uso residencial;
+
+III - tenha sido objeto de adaptação às normas de segurança e se mantenha sem
+alteração de ordem física ou de utilização em relação ao regularmente licenciado;
+
+IV - tenha sido licenciada nos termos da Lei nº 11.228, de 25 de junho de 1992, e se
+mantenha sem alteração de ordem física ou de utilização em relação ao regularmente
+licenciado;
+
+V - tenha sido licenciada nos termos da Lei nº 8.266, de 20 de junho de 1975, e se
+mantenha sem alteração de ordem física ou de utilização em relação ao regularmente
+licenciado.
+
+6.3. Toda edificação nova e edificação existente a ser reformada ou requalificada deve
+observar as disposições deste item 6.
+
+6.4. Considera-se espaço de circulação a escada, a rampa, o corredor e o vestíbulo,
+que, conforme o uso, classifica-se como:
+
+I - privado, quando se destinar a unidades residenciais e a acesso a compartimentos de
+uso limitado das edificações em geral, devendo observar a largura mínima de 0,80m (oitenta
+centímetros);
+
+II - coletivo, quando se destinar a uso público ou coletivo, devendo observar a largura
+mínima de 1,20m (um metro e vinte centímetros).
+
+6.4.1. Pode ser admitido como privado o espaço de circulação de edificação destinada
+a qualquer uso que apresente altura "h" menor ou igual a 6,00m (seis metros).
+
+6.4.2. A escada é classificada, em função de sua utilização, como:
+
+I - restrita, quando privada, servindo de acesso secundário nas unidades residenciais
+ou de acesso destinado a depósito e instalação de equipamentos, nas edificações em geral;
+
+II - protegida, quando coletiva e considerada para o escoamento da população em
+condições de segurança.
+
+6.5. Deve dispor, no mínimo, de uma escada protegida a edificação com uma das
+seguintes características:
+
+I - destinada a uso residencial e hospedagem, com altura "h" superior a 12,00m (doze
+metros);
+
+II - destinada aos demais usos, com:
+
+
+a) altura superior a 9,00m (nove metros); ou
+
+b) lotação superior a 100 (cem) pessoas por andar e altura "h" superior a 7,00m (sete
+metros).
+
+6.6. Deve dispor de mais de uma escada protegida a edificação com uma das
+seguintes características:
+
+I - destinada a uso residencial com altura "h" superior a 80,00m (oitenta metros);
+
+II - destinada aos demais usos, com:
+
+a) altura "h" superior a 36,00m (trinta e seis metros); ou
+
+b) lotação superior a 100 (cem) pessoas por andar e altura "h" superior a 9,00m (nove
+metros).
+
+6.7. O sistema de segurança da edificação é constituído do conjunto de instalações e
+equipamentos que deve entrar em funcionamento e ser utilizado de forma adequada em
+situação de emergência, classificando-se em:
+
+I - sistema de segurança básico 1, obrigatório para toda edificação, exceto para a
+edificação residencial unifamiliar e o conjunto de habitações agrupadas horizontalmente;
+
+II - sistema de segurança básico 2, obrigatório para toda edificação que necessite de
+uma escada protegida;
+
+III - sistema especial de segurança, obrigatório para toda edificação que necessite de
+mais de uma escada protegida.
+
+6.7.1. A edificação destinada a comércio de venda de mercadorias em geral, prestação
+de serviços automotivos, indústria, oficina e depósito, em função de sua altura, área e material
+predominantemente depositado, manipulado ou comercializado, deve dispor de sistema
+especial de segurança.
+
+6.8. As medidas de segurança contra incêndio para equipamentos complementares,
+tais como aparelhos de transporte vertical, tanques, bombas, caldeiras e locais de
+armazenamento de gás liquefeito de petróleo - GLP e gás natural, devem atender às normas
+pertinentes e legislação específica.
+7. DO EQUIPAMENTO MECÃ?NICO
+
+7.1. Todo equipamento mecânico, independentemente de sua posição no imóvel, deve
+ser instalado de forma a não transmitir, ao imóvel vizinho e ao logradouro público, ruído,
+vibração e temperatura em níveis superiores aos previstos nos regulamentos oficiais próprios.
+
+7.1.1. O guindaste, ponte rolante e outros equipamentos assemelhados devem
+observar o afastamento mínimo das divisas estabelecido na LPUOS em função da sua altura
+em relação ao perfil do terreno.
+
+7.2. O elevador e os demais equipamentos mecânicos de transporte vertical não
+podem se constituir no único meio de circulação e acesso do pedestre à edificação.
+
+7.3. A edificação com mais de 5 (cinco) andares ou que apresente desnível superior a
+12,00m (doze metros) contado do piso do último andar até o piso do andar inferior, incluídos os
+pavimentos destinados a estacionamento, deve ser servida por elevador de passageiro,
+observadas as seguintes condições:
+
+I - no mínimo, 1 (um) elevador, em edificação com até 10 (dez) andares ou com
+desnível igual ou inferior a 24,00m (vinte e quatro metros);
+
+II - no mínimo, 2 (dois) elevadores, em edificação com mais de 10 (dez) andares ou
+com desnível superior a 24,00m (vinte e quatro metros).
+
+7.3.1. Todo andar deve ser servido pelo número mínimo de elevadores exigidos,
+inclusive aquele destinado a estacionamento.
+
+7.3.2. No cômputo dos andares, no cálculo do desnível e na obrigatoriedade de parada,
+não são considerados o ático, o pavimento de cobertura sem utilização, o andar destinado à
+zeladoria e o andar de uso privado de andar contíguo.
+
+8. DO ESTACIONAMENTO
+
+8.1. Os espaços para acesso, circulação e estacionamento de veículos devem ser
+projetados, dimensionados e executados livres de qualquer interferência estrutural ou física e
+são classificados em:
+
+I - particular, quando de uso exclusivo e reservado, integrante de edificação residencial
+unifamiliar e de conjunto de habitações agrupadas horizontalmente;
+
+II - privativo, quando de utilização exclusiva pela população permanente da edificação;
+
+III - coletivo, quando aberto à utilização pela população permanente e flutuante da
+edificação.
+
+8.2. O acesso de veículos em lote de esquina deve distar, no mínimo, 6,00m (seis
+metros) do início do ponto de encontro do prolongamento dos alinhamentos dos logradouros,
+salvo na edificação residencial unifamiliar e no conjunto de habitações agrupadas
+horizontalmente.
+
+8.2.1. Em virtude das características do logradouro, a distância estabelecida no
+subitem 8.2 pode ser alterada a critério da Prefeitura.
+
+8.3. A rampa de veículo deve observar recuo de 4,00m (quatro metros) do alinhamento
+do logradouro para seu início e apresentar declividade máxima de:
+
+I - 20% (vinte por cento), quando destinada à circulação de automóvel e utilitário;
+
+II -12% (doze por cento), quando destinada à circulação de caminhão e ônibus.
+
+8.3.1. O piso entre o alinhamento e o início da rampa pode ter inclinação de até 5%
+(cinco por cento).
+
+8.4. O piso do estacionamento pode ter inclinação de, no máximo, 5% (cinco por
+cento).
+
+8.5. Deve ser previsto espaço de manobra e estacionamento de veículo de forma que
+essas operações não sejam executadas no espaço do logradouro público.
+
+8.6. Devem ser previstas vagas para motocicletas, em função do tipo de
+estacionamento, em acréscimo às vagas destinadas para automóveis, observada a
+proporcionalidade da tabela abaixo:
+
+
+8.7. Admite-se a utilização de equipamento mecânico para estacionamento de veículos,
+observadas as normas técnicas aplicáveis e as disposições da LOE e LPUOS sobre acesso e
+circulação de veículos entre o logradouro público e o imóvel.
+9. DAS INSTALAÇÕES SANITÁRIAS
+
+9.1. Toda edificação deve dispor de instalações sanitárias em função da atividade
+desenvolvida e do número de usuários.
+
+9.2. A edificação destinada a uso residencial deve dispor de instalações sanitárias na
+seguinte quantidade mínima:
+
+I - residência unifamiliar e unidade residencial em condomínio: 1 (uma) bacia, 1 (um)
+lavatório e 1 (um) chuveiro;
+
+
+II - áreas de uso comum de edificações multifamiliares: 1 (uma) bacia, 1 (um) lavatório
+e 1 (um) chuveiro, para cada sexo, sendo, no mínimo, uma das instalações adaptadas ao uso
+por pessoa com deficiência ou mobilidade reduzida.
+
+9.3. Na edificação de uso não residencial, a quantidade de instalações sanitárias deve
+ser calculada em função da natureza das atividades exercidas e de sua população, garantido o
+mínimo de 1 (uma) bacia e 1 (um) lavatório para cada sexo.
+
+9.3.1. A distribuição das instalações sanitárias para cada sexo deve decorrer da
+atividade desenvolvida.
+
+Este texto não substitui o publicado no Diário Oficial da Cidade em 10/09/2015, p. 103-108
+Para informações sobre este projeto, visite o site www.camara.sp.gov.br.
